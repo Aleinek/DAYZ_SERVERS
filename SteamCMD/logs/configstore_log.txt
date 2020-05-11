@@ -1,0 +1,265 @@
+
+
+[2020-04-18 13:40:25] Failed to read store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf.tmp'
+[2020-04-18 13:40:25] Failed to read store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf.tmp'
+[2020-04-18 13:40:25] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-18 13:40:26] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+
+
+[2020-04-18 16:01:43] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf' successfully
+[2020-04-18 16:01:43] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf' successfully
+[2020-04-18 16:01:43] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf' successfully
+[2020-04-18 16:01:44] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-18 16:01:45] Failed to read store 'userlocal' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf.tmp'
+[2020-04-18 16:01:46] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-18 16:01:46] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+[2020-04-18 16:01:47] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+[2020-04-18 16:01:48] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-18 16:01:52] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+[2020-04-18 16:01:52] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+[2020-04-18 16:01:53] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-18 16:01:54] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-18 16:02:07] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+[2020-04-18 16:02:20] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+[2020-04-18 16:02:24] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-18 16:02:54] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-18 16:03:24] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-18 16:03:54] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-18 16:04:24] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-18 16:04:38] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+
+
+[2020-04-18 16:14:49] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf' successfully
+[2020-04-18 16:14:49] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf' successfully
+[2020-04-18 16:14:49] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf' successfully
+[2020-04-18 16:14:49] Loaded store 'userlocal' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf' successfully
+[2020-04-18 16:14:50] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-18 16:14:51] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-18 16:14:52] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+[2020-04-18 16:14:52] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-18 16:14:53] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+
+
+[2020-04-18 21:33:20] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf' successfully
+[2020-04-18 21:33:20] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf' successfully
+[2020-04-18 21:33:20] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf' successfully
+[2020-04-18 21:33:20] Loaded store 'userlocal' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf' successfully
+[2020-04-18 21:33:21] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-18 21:33:23] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-18 21:33:24] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-18 21:33:24] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+[2020-04-18 21:33:24] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-18 21:33:26] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+
+
+[2020-04-18 21:34:12] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf' successfully
+[2020-04-18 21:34:12] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf' successfully
+[2020-04-18 21:34:12] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf' successfully
+[2020-04-18 21:34:12] Loaded store 'userlocal' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf' successfully
+[2020-04-18 21:34:13] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-18 21:34:14] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-18 21:34:14] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-18 21:34:15] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+[2020-04-18 21:34:15] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+
+
+[2020-04-18 22:06:22] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf' successfully
+[2020-04-18 22:06:22] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf' successfully
+[2020-04-18 22:06:22] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf' successfully
+[2020-04-18 22:06:22] Loaded store 'userlocal' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf' successfully
+[2020-04-18 22:06:24] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-18 22:06:24] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+[2020-04-18 22:06:25] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-18 22:06:25] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+
+
+[2020-04-18 22:28:35] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf' successfully
+[2020-04-18 22:28:35] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf' successfully
+[2020-04-18 22:28:35] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf' successfully
+[2020-04-18 22:28:35] Loaded store 'userlocal' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf' successfully
+[2020-04-18 22:28:36] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-18 22:28:37] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-18 22:28:38] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+[2020-04-18 22:28:38] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-18 22:28:38] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+
+
+[2020-04-18 22:33:59] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf' successfully
+[2020-04-18 22:33:59] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf' successfully
+[2020-04-18 22:34:00] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf' successfully
+[2020-04-18 22:34:00] Loaded store 'userlocal' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf' successfully
+[2020-04-18 22:34:00] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-18 22:34:02] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-18 22:34:02] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-18 22:34:03] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+[2020-04-18 22:34:04] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+
+
+[2020-04-18 22:37:20] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf' successfully
+[2020-04-18 22:37:20] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf' successfully
+[2020-04-18 22:37:20] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf' successfully
+[2020-04-18 22:37:20] Loaded store 'userlocal' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf' successfully
+[2020-04-18 22:37:20] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-18 22:37:22] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-18 22:37:22] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+[2020-04-18 22:37:22] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-18 22:37:23] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+
+
+[2020-04-19 12:15:22] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf' successfully
+[2020-04-19 12:15:22] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf' successfully
+[2020-04-19 12:15:22] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf' successfully
+[2020-04-19 12:15:22] Loaded store 'userlocal' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf' successfully
+[2020-04-19 12:15:23] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-19 12:15:25] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-19 12:15:26] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-19 12:15:26] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+[2020-04-19 12:15:27] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-19 12:15:27] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+
+
+[2020-04-19 14:05:30] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf' successfully
+[2020-04-19 14:05:30] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf' successfully
+[2020-04-19 14:05:30] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf' successfully
+[2020-04-19 14:05:30] Loaded store 'userlocal' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf' successfully
+[2020-04-19 14:05:31] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-19 14:05:32] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-19 14:05:33] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+[2020-04-19 14:05:33] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+
+
+[2020-04-19 14:07:42] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf' successfully
+[2020-04-19 14:07:42] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf' successfully
+[2020-04-19 14:07:42] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf' successfully
+[2020-04-19 14:07:42] Loaded store 'userlocal' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf' successfully
+[2020-04-19 14:07:43] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-19 14:07:45] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-19 14:07:45] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-19 14:07:46] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+[2020-04-19 14:07:47] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-19 14:07:47] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+
+
+[2020-04-19 14:14:55] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf' successfully
+[2020-04-19 14:14:55] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf' successfully
+[2020-04-19 14:14:55] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf' successfully
+[2020-04-19 14:14:55] Loaded store 'userlocal' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf' successfully
+[2020-04-19 14:14:56] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-19 14:14:58] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-19 14:14:58] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+[2020-04-19 14:14:59] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+
+
+[2020-04-19 19:05:28] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf' successfully
+[2020-04-19 19:05:28] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf' successfully
+[2020-04-19 19:05:28] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf' successfully
+[2020-04-19 19:05:28] Loaded store 'userlocal' from 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf' successfully
+[2020-04-19 19:05:28] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-19 19:05:31] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-19 19:05:31] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+[2020-04-19 19:05:32] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+[2020-04-19 19:05:33] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+[2020-04-19 19:05:33] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\config\config.vdf'
+
+
+[2020-04-19 19:08:23] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf' successfully
+[2020-04-19 19:08:23] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf' successfully
+[2020-04-19 19:08:23] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf' successfully
+[2020-04-19 19:08:23] Loaded store 'userlocal' from 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\userdata\1088331112\config\localconfig.vdf' successfully
+[2020-04-19 19:08:24] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf'
+[2020-04-19 19:08:25] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf'
+[2020-04-19 19:08:25] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf'
+[2020-04-19 19:08:26] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+[2020-04-19 19:08:27] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf'
+[2020-04-19 19:08:27] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+[2020-04-19 19:08:58] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf'
+[2020-04-19 19:09:28] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf'
+[2020-04-19 19:09:58] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf'
+[2020-04-19 19:10:28] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf'
+[2020-04-19 19:10:59] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf'
+[2020-04-19 19:11:29] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf'
+[2020-04-19 19:11:59] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf'
+[2020-04-19 19:12:29] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf'
+[2020-04-19 19:12:59] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf'
+[2020-04-19 19:13:29] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf'
+[2020-04-19 19:13:59] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf'
+[2020-04-19 19:14:29] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf'
+[2020-04-19 19:14:59] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf'
+[2020-04-19 19:15:29] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf'
+[2020-04-19 19:15:59] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf'
+
+
+[2020-04-19 19:17:17] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf' successfully
+[2020-04-19 19:17:17] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf' successfully
+[2020-04-19 19:17:17] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf' successfully
+[2020-04-19 19:17:17] Loaded store 'userlocal' from 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\userdata\1088331112\config\localconfig.vdf' successfully
+[2020-04-19 19:17:18] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf'
+[2020-04-19 19:17:19] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf'
+[2020-04-19 19:17:20] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+[2020-04-19 19:17:20] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf'
+[2020-04-19 19:17:21] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+
+
+[2020-04-19 19:18:57] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf' successfully
+[2020-04-19 19:18:57] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf' successfully
+[2020-04-19 19:18:57] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf' successfully
+[2020-04-19 19:18:57] Loaded store 'userlocal' from 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\userdata\1088331112\config\localconfig.vdf' successfully
+[2020-04-19 19:18:58] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf'
+[2020-04-19 19:18:58] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf'
+[2020-04-19 19:19:00] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf'
+[2020-04-19 19:19:00] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+[2020-04-19 19:19:00] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf'
+[2020-04-19 19:19:01] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+
+
+[2020-04-19 19:24:24] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf' successfully
+[2020-04-19 19:24:24] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf' successfully
+[2020-04-19 19:24:25] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf' successfully
+[2020-04-19 19:24:25] Loaded store 'userlocal' from 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\userdata\1088331112\config\localconfig.vdf' successfully
+[2020-04-19 19:24:25] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf'
+[2020-04-19 19:24:26] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf'
+[2020-04-19 19:24:27] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf'
+[2020-04-19 19:24:27] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+[2020-04-19 19:24:28] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf'
+[2020-04-19 19:24:29] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+
+
+[2020-04-19 19:24:47] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf' successfully
+[2020-04-19 19:24:47] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf' successfully
+[2020-04-19 19:24:47] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf' successfully
+[2020-04-19 19:24:47] Loaded store 'userlocal' from 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\userdata\1088331112\config\localconfig.vdf' successfully
+[2020-04-19 19:24:47] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf'
+[2020-04-19 19:24:49] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf'
+[2020-04-19 19:24:49] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+[2020-04-19 19:24:50] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+
+
+[2020-04-19 19:25:11] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf' successfully
+[2020-04-19 19:25:11] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf' successfully
+[2020-04-19 19:25:11] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf' successfully
+[2020-04-19 19:25:11] Loaded store 'userlocal' from 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\userdata\1088331112\config\localconfig.vdf' successfully
+[2020-04-19 19:25:12] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf'
+[2020-04-19 19:25:12] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf'
+[2020-04-19 19:25:13] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf'
+[2020-04-19 19:25:14] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+[2020-04-19 19:25:14] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+
+
+[2020-04-19 22:43:53] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf' successfully
+[2020-04-19 22:43:53] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf' successfully
+[2020-04-19 22:43:53] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf' successfully
+[2020-04-19 22:43:53] Loaded store 'userlocal' from 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\userdata\1088331112\config\localconfig.vdf' successfully
+[2020-04-19 22:43:55] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf'
+[2020-04-19 22:43:56] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+[2020-04-19 22:43:57] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+
+
+[2020-04-21 19:02:32] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf' successfully
+[2020-04-21 19:02:32] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf' successfully
+[2020-04-21 19:02:32] Loaded store 'install' from 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf' successfully
+[2020-04-21 19:02:32] Loaded store 'userlocal' from 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\userdata\1088331112\config\localconfig.vdf' successfully
+[2020-04-21 19:02:32] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf'
+[2020-04-21 19:02:34] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf'
+[2020-04-21 19:02:34] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\userdata\1088331112\config\localconfig.vdf'
+[2020-04-21 19:02:35] Flushed store 'install' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\config\config.vdf'
+[2020-04-21 19:02:35] Flushed store 'userlocal' to 'C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\userdata\1088331112\config\localconfig.vdf'

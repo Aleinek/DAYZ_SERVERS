@@ -1,0 +1,84 @@
+HOW TO USE THIS: 
+
+Open up your missions cfgspawnabletypes.xml file, and search for 'Weapons'. As of the writing of this, it is located on line 1339. 
+
+Right above the CZ61 set up, copy all of the config text here and paste into that file. Scroll through and make sure the formatting is correct, and
+make sure you didnt miss any necessary text. For help, message me on discord, Not A Banana#9930
+
+Feel free to edit the values of the percentages. The way it works is <attachments chance=#> is the chance of the attachment to spawn, with 1.00 being
+100% and 0.50 being 50%, etc, you get the idea. 
+
+CHANGES MARCH 3RD: Changed AWM class name to AWMreal, same with mag. 
+
+CHANGES MAY 26: Added entry for M14. 
+
+    <type name="AWMreal">
+        <attachments chance="0.20">
+            <item name="Mag_AWMreal_5Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="0.10">
+            <item name="SniperOptic" chance="1.00" />
+        </attachments>
+    </type>   
+    <type name="M1A">
+        <attachments chance="0.30">
+            <item name="M1A_RailAtt" chance="1.00" />
+        </attachments>
+        <attachments chance="0.20">
+            <item name="Mag_M14_10Rnd" chance="1.00" />
+        </attachments>
+    </type>   
+    <type name="M16">
+        <attachments chance="1.00">
+            <item name="M4_CarryHandleOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="0.30">
+            <item name="Mag_STANAG_30Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Mk22">
+        <attachments chance="0.10">
+            <item name="Mag_Mk22_14Rnd" chance="1.00" />
+        </attachments>
+	</type>
+    <type name="MP7">
+        <attachments chance="0.10">
+            <item name="Mag_MP7_40Rnd" chance="1.00" />
+        </attachments>
+	</type>
+    <type name="StechkinAPS">
+        <attachments chance="0.20">
+            <item name="Mag_APS_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="0.10">
+            <item name="APS_Buttstock" chance="1.00" />
+        </attachments>
+	</type>
+    <type name="Scar">
+        <attachments chance="0.20">
+            <item name="M68Optic" chance="0.90" />
+            <item name="ACOGOptic" chance="0.10" />
+        </attachments>
+        <attachments chance="0.30">
+            <item name="Mag_STANAG_30Rnd" chance="1.00" />
+        </attachments>
+	</type>
+    <type name="VityazSN">
+        <attachments chance="1.00">
+            <item name="AK_RailHndgrd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AKS74U_Bttstck" chance="1.00" />
+        </attachments>
+        <attachments chance="0.30">
+            <item name="Mag_Vityaz_30Rnd" chance="1.00" />
+        </attachments>
+    </type>	
+	<type name="M14">
+        <attachments chance="0.30">
+            <item name="M1A_RailAtt" chance="1.00" />
+        </attachments>
+        <attachments chance="0.20">
+            <item name="Mag_M14_10Rnd" chance="1.00" />
+        </attachments>
+    </type>   

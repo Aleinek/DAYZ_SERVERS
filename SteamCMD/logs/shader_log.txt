@@ -1,0 +1,198 @@
+
+
+[2020-04-18 13:40:25] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-18 13:40:25] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-18 13:40:25] Unknown shader cache type, ignoring.
+[2020-04-18 13:40:25] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-18 13:40:25] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-18 13:40:25] Unknown shader cache type, ignoring.
+[2020-04-18 13:40:26] Found 0 current buckets:
+
+
+[2020-04-18 16:01:43] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-18 16:01:43] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-18 16:01:43] Unknown shader cache type, ignoring.
+[2020-04-18 16:01:44] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-18 16:01:44] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-18 16:01:44] Unknown shader cache type, ignoring.
+[2020-04-18 16:01:44] Found 0 current buckets:
+
+
+[2020-04-18 16:14:49] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-18 16:14:49] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-18 16:14:49] Unknown shader cache type, ignoring.
+[2020-04-18 16:14:50] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-18 16:14:50] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-18 16:14:50] Unknown shader cache type, ignoring.
+[2020-04-18 16:14:50] Found 0 current buckets:
+
+
+[2020-04-18 21:33:20] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-18 21:33:20] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-18 21:33:20] Unknown shader cache type, ignoring.
+[2020-04-18 21:33:21] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-18 21:33:21] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-18 21:33:21] Unknown shader cache type, ignoring.
+[2020-04-18 21:33:21] Found 0 current buckets:
+
+
+[2020-04-18 21:34:12] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-18 21:34:12] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-18 21:34:12] Unknown shader cache type, ignoring.
+[2020-04-18 21:34:13] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-18 21:34:13] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-18 21:34:13] Unknown shader cache type, ignoring.
+[2020-04-18 21:34:14] Found 0 current buckets:
+
+
+[2020-04-18 22:06:22] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-18 22:06:22] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-18 22:06:22] Unknown shader cache type, ignoring.
+[2020-04-18 22:06:22] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-18 22:06:22] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-18 22:06:23] Unknown shader cache type, ignoring.
+[2020-04-18 22:06:23] Found 0 current buckets:
+
+
+[2020-04-18 22:28:35] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-18 22:28:35] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-18 22:28:35] Unknown shader cache type, ignoring.
+[2020-04-18 22:28:36] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-18 22:28:36] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-18 22:28:36] Unknown shader cache type, ignoring.
+[2020-04-18 22:28:36] Found 0 current buckets:
+
+
+[2020-04-18 22:33:59] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-18 22:34:00] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-18 22:34:00] Unknown shader cache type, ignoring.
+[2020-04-18 22:34:00] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-18 22:34:00] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-18 22:34:00] Unknown shader cache type, ignoring.
+[2020-04-18 22:34:01] Found 0 current buckets:
+
+
+[2020-04-18 22:37:20] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-18 22:37:20] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-18 22:37:20] Unknown shader cache type, ignoring.
+[2020-04-18 22:37:20] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-18 22:37:20] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-18 22:37:20] Unknown shader cache type, ignoring.
+[2020-04-18 22:37:21] Found 0 current buckets:
+
+
+[2020-04-19 12:15:22] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-19 12:15:22] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-19 12:15:22] Unknown shader cache type, ignoring.
+[2020-04-19 12:15:23] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-19 12:15:23] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-19 12:15:23] Unknown shader cache type, ignoring.
+[2020-04-19 12:15:23] Found 0 current buckets:
+
+
+[2020-04-19 14:05:30] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-19 14:05:30] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-19 14:05:30] Unknown shader cache type, ignoring.
+[2020-04-19 14:05:31] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-19 14:05:31] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-19 14:05:31] Unknown shader cache type, ignoring.
+[2020-04-19 14:05:31] Found 0 current buckets:
+
+
+[2020-04-19 14:07:42] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-19 14:07:42] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-19 14:07:42] Unknown shader cache type, ignoring.
+[2020-04-19 14:07:43] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-19 14:07:43] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-19 14:07:43] Unknown shader cache type, ignoring.
+[2020-04-19 14:07:43] Found 0 current buckets:
+
+
+[2020-04-19 14:14:55] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-19 14:14:55] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-19 14:14:55] Unknown shader cache type, ignoring.
+[2020-04-19 14:14:56] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-19 14:14:56] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-19 14:14:56] Unknown shader cache type, ignoring.
+[2020-04-19 14:14:56] Found 0 current buckets:
+
+
+[2020-04-19 19:05:28] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-19 19:05:28] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-19 19:05:28] Unknown shader cache type, ignoring.
+[2020-04-19 19:05:28] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-19 19:05:28] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-19 19:05:28] Unknown shader cache type, ignoring.
+[2020-04-19 19:05:29] Found 0 current buckets:
+
+
+[2020-04-19 19:08:23] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-19 19:08:23] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-19 19:08:23] Unknown shader cache type, ignoring.
+[2020-04-19 19:08:24] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-19 19:08:24] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-19 19:08:24] Unknown shader cache type, ignoring.
+[2020-04-19 19:08:24] Found 0 current buckets:
+
+
+[2020-04-19 19:17:17] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-19 19:17:17] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-19 19:17:17] Unknown shader cache type, ignoring.
+[2020-04-19 19:17:18] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-19 19:17:18] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-19 19:17:18] Unknown shader cache type, ignoring.
+[2020-04-19 19:17:18] Found 0 current buckets:
+
+
+[2020-04-19 19:18:57] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-19 19:18:57] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-19 19:18:57] Unknown shader cache type, ignoring.
+[2020-04-19 19:18:58] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-19 19:18:58] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-19 19:18:58] Unknown shader cache type, ignoring.
+[2020-04-19 19:18:58] Found 0 current buckets:
+
+
+[2020-04-19 19:24:24] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-19 19:24:25] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-19 19:24:25] Unknown shader cache type, ignoring.
+[2020-04-19 19:24:25] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-19 19:24:25] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-19 19:24:25] Unknown shader cache type, ignoring.
+[2020-04-19 19:24:26] Found 0 current buckets:
+
+
+[2020-04-19 19:24:47] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-19 19:24:47] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-19 19:24:47] Unknown shader cache type, ignoring.
+[2020-04-19 19:24:47] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-19 19:24:47] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-19 19:24:47] Unknown shader cache type, ignoring.
+[2020-04-19 19:24:48] Found 0 current buckets:
+
+
+[2020-04-19 19:25:11] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-19 19:25:11] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-19 19:25:11] Unknown shader cache type, ignoring.
+[2020-04-19 19:25:12] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-19 19:25:12] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-19 19:25:12] Unknown shader cache type, ignoring.
+[2020-04-19 19:25:12] Found 0 current buckets:
+
+
+[2020-04-19 22:43:53] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-19 22:43:53] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-19 22:43:53] Unknown shader cache type, ignoring.
+[2020-04-19 22:43:54] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-19 22:43:54] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-19 22:43:54] Unknown shader cache type, ignoring.
+[2020-04-19 22:43:54] Found 0 current buckets:
+
+
+[2020-04-21 19:02:32] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-21 19:02:32] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\shader_cache_temp_dir_gl_64
+[2020-04-21 19:02:32] Unknown shader cache type, ignoring.
+[2020-04-21 19:02:32] Attempting to find current bucket; temporary dir: C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-21 19:02:32] Creating shader cache directory: C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\shader_cache_temp_dir_gl_32
+[2020-04-21 19:02:32] Unknown shader cache type, ignoring.
+[2020-04-21 19:02:33] Found 0 current buckets:

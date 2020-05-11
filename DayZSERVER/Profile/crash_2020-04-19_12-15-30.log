@@ -1,0 +1,48 @@
+---------------------------------------------
+Log C:\Users\adamk\Desktop\DayZSERVERSA\DayZSERVER\Profile\crash_2020-04-19_12-15-30.log started at 19.04. 12:26:48
+
+
+
+------------------------------------
+DESKTOP-FUDT75O, 19.04 2020 12:26:48
+
+[desync] HandleInputData man=SurvivorM_Boris:01 CANNOT move cmd=SYNC_MOVE src={ type=GROUND item=Mag_STANAG_30Rnd:07307 pos=(3103.36, 23.1307, 4093.94) dir=(-0.44033, 0.55584, 0.553811, 0.436393) } dst={ type=CARGO item=Mag_STANAG_30Rnd:07307 parent=MVS_Taco_Pouch_OD:08510 idx=0 row=0 col=0 f=false }
+Class:      'DayZPlayerInventory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/systems\inventory\dayzplayerinventory.c:486
+scripts/4_World/systems\inventory\dayzplayerinventory.c:391
+
+Runtime mode
+CLI params: instanceId 1 config serverDZ.cfg profiles Profile port 2302 cpuCount 4 noFilePatching  dologs  adminlog  freezecheck  mod @deerisle;@ArmaWeaponPack;@BuildAnywhere;@Cl0ud'sMilitaryGear;@Ear-Plugs;@FlipTransport;@GoreZ;@Mass'sManyItemOverhaul;@ModularVestSystem;@MoreGuns;@MosinScope;@MunghardsItempack;@NoVehicleDamage;@VAZ-2107;@CF; 
+
+
+------------------------------------
+DESKTOP-FUDT75O, 19.04 2020 12:26:54
+
+[desync] HandleInputData man=SurvivorM_Boris:01 CANNOT move cmd=SYNC_MOVE src={ type=CARGO item=Mag_STANAG_30Rnd:07307 parent=MVS_Taco_Pouch_OD:08510 idx=0 row=1 col=3 f=false } dst={ type=CARGO item=Mag_STANAG_30Rnd:07307 parent=MVS_Taco_Pouch_OD:08510 idx=0 row=1 col=0 f=false }
+Class:      'DayZPlayerInventory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/systems\inventory\dayzplayerinventory.c:486
+scripts/4_World/systems\inventory\dayzplayerinventory.c:391
+
+Runtime mode
+CLI params: instanceId 1 config serverDZ.cfg profiles Profile port 2302 cpuCount 4 noFilePatching  dologs  adminlog  freezecheck  mod @deerisle;@ArmaWeaponPack;@BuildAnywhere;@Cl0ud'sMilitaryGear;@Ear-Plugs;@FlipTransport;@GoreZ;@Mass'sManyItemOverhaul;@ModularVestSystem;@MoreGuns;@MosinScope;@MunghardsItempack;@NoVehicleDamage;@VAZ-2107;@CF; 
+
+
+------------------------------------
+DESKTOP-FUDT75O, 19.04 2020 12:27:38
+
+[desync] HandleInputData man=SurvivorM_Boris:01 CANNOT do cmd=HAND_EVENT e={ HandEv id=TAKE pl=SurvivorM_Boris:01 src={ type=ATTACHMENT item=M4A1:011703 parent=SurvivorM_Boris:01 slot=-761289206 } }
+Class:      'DayZPlayerInventory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/systems\inventory\dayzplayerinventory.c:565
+scripts/4_World/systems\inventory\dayzplayerinventory.c:391
+
+Runtime mode
+CLI params: instanceId 1 config serverDZ.cfg profiles Profile port 2302 cpuCount 4 noFilePatching  dologs  adminlog  freezecheck  mod @deerisle;@ArmaWeaponPack;@BuildAnywhere;@Cl0ud'sMilitaryGear;@Ear-Plugs;@FlipTransport;@GoreZ;@Mass'sManyItemOverhaul;@ModularVestSystem;@MoreGuns;@MosinScope;@MunghardsItempack;@NoVehicleDamage;@VAZ-2107;@CF; 

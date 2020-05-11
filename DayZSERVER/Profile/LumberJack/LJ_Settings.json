@@ -1,0 +1,13 @@
+{
+    "g_WoodenLog_From_Tree_Multiplier": 1,
+    "g_WoodenStick_From_TreeOrBush_Multiplier": 1,
+    "g_Firewood_From_Tree_Multiplier": 1,
+    "g_LargeStone_From_Rock_Multiplier": 1,
+    "g_WoodenPlank_From_Log_Quantity": 3,
+    "g_WoodenPlank_From_LumberPile_Quantity": 9,
+    "g_LumberPile_RemovedPlanks": 3,
+    "g_Firewood_From_Log_Quantity": 3,
+    "g_SmallStone_From_LargeStone_Quantity": 2,
+    "g_WoodenStick_From_Firewood_Quantity": 3,
+    "g_WoodenStick_From_LongWoodenStick_Quantity": 3
+}

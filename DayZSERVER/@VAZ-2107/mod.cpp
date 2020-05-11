@@ -1,0 +1,10 @@
+name = "[CrSk] VAZ-2107";
+picture = "CrSk_VAZ_2107/logos/modIcon.paa";
+logoSmall = "CrSk_VAZ_2107/logos/modIconSmall.paa";
+logo = "CrSk_VAZ_2107/logos/modIconSmall.paa";
+logoOver = "CrSk_VAZ_2107/logos/mocIcon.paa";
+tooltip = "[CrSk] VAZ-2107 by CrushingSkirmish";
+overview = "By CrushingSkirmish. Manufacturer: Volzhsky Avtomobilny Zavod (AvtoVAZ), Tolyatti, USSR/Russia. Production: 1983–2012. Crew: 1+3. Slots: 350";
+action = "https://steamcommunity.com/sharedfiles/filedetails/?id=1818957231";
+author = "CrushingSkirmish";
+version = "ver.15.04.20";

@@ -1,0 +1,10 @@
+name = "Ear Plugs";
+picture = "EarPlugs/logos/modIcon.edds";
+logoSmall = "EarPlugs/logos/modIcon.edds";
+logo = "EarPlugs/logos/modIcon.edds";
+logoOver = "EarPlugs/logos/modIcon.edds";
+tooltip = "Adds a keybind to toggle and adjust sound effect volume";
+overview = "Ear Plugs is a mod that allows you to turn down your audio to a custom level and then toggle it on/off. Great for when driving or flying and you need to hear VOIP.";
+action = "https://steamcommunity.com/sharedfiles/filedetails/?id=1819514788";
+author = "Cooltrain";
+version = "1.0.1";

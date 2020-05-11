@@ -1,0 +1,31 @@
+---------------------------------------------
+ZomBerry v0.5.9-prep log started at 08.05.2020 12:12:13
+
+08.05.2020 12:12:13 [ZomBerryCmdAPI]: INFO: Added category OnTarget
+08.05.2020 12:12:13 [ZomBerryCmdAPI]: INFO: Added function TPCur to category OnTarget
+08.05.2020 12:12:13 [ZomBerryCmdAPI]: INFO: Added function TPToTarget to category OnTarget
+08.05.2020 12:12:13 [ZomBerryCmdAPI]: INFO: Added function TPToAdmin to category OnTarget
+08.05.2020 12:12:13 [ZomBerryCmdAPI]: INFO: Added function HealTarget to category OnTarget
+08.05.2020 12:12:13 [ZomBerryCmdAPI]: INFO: Added function GodTarget to category OnTarget
+08.05.2020 12:12:13 [ZomBerryCmdAPI]: INFO: Added function RefuelAndRepair to category OnTarget
+08.05.2020 12:12:13 [ZomBerryCmdAPI]: INFO: Added category ==
+08.05.2020 12:12:13 [ZomBerryCmdAPI]: INFO: Added function KillTarget to category ==
+08.05.2020 12:12:13 [ZomBerryCmdAPI]: INFO: Added function BiteTarget to category ==
+08.05.2020 12:12:13 [ZomBerryCmdAPI]: INFO: Added function StripTarget to category ==
+08.05.2020 12:12:13 [ZomBerryCmdAPI]: INFO: Added function RejectBellyTarget to category ==
+08.05.2020 12:12:13 [ZomBerryCmdAPI]: INFO: Added function PsycoTarget to category ==
+08.05.2020 12:12:13 [ZomBerryCmdAPI]: INFO: Added function SneezeTarget to category ==
+08.05.2020 12:12:13 [ZomBerryCmdAPI]: INFO: Added function SetHealthTarget to category ==
+08.05.2020 12:12:13 [ZomBerryCmdAPI]: INFO: Added function SetBloodTarget to category ==
+08.05.2020 12:12:13 [ZomBerryCmdAPI]: INFO: Added category OnServer
+08.05.2020 12:12:13 [ZomBerryCmdAPI]: INFO: Added function FreeCamAdm to category OnServer
+08.05.2020 12:12:13 [ZomBerryCmdAPI]: INFO: Added function TimeDay to category OnServer
+08.05.2020 12:12:13 [ZomBerryCmdAPI]: INFO: Added function TimeNight to category OnServer
+08.05.2020 12:12:13 [ZomBerryCmdAPI]: INFO: Added function SetTime to category OnServer
+08.05.2020 12:12:13 [ZomBerryCmdAPI]: INFO: Added function SetDate to category OnServer
+08.05.2020 12:12:13 [ZomBerryCmdAPI]: INFO: Added function SetWeather to category OnServer
+08.05.2020 12:12:13 [ZomBerryCmdAPI]: INFO: Added function DeleteObj to category OnServer
+08.05.2020 12:12:13 [ZomBerryConfig]: FATAL: admins.cfg was NOT found, please check previous logs and read FAQ.
+08.05.2020 12:12:13 [ZomBerryConfig]: INFO: We highly recommend to put admins.cfg inside this folder: Profile\ZomBerry (create it manually if it doesn't exist)
+08.05.2020 12:12:13 [ZomBerryDbg]: Server ready, loading admin list from: admins.cfg
+08.05.2020 12:12:13 [ZomBerryConfig]: FATAL: admins.cfg loading failed

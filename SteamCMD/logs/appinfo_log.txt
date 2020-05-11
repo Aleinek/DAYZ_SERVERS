@@ -1,0 +1,245 @@
+
+
+[2020-04-18 16:01:45] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-04-18 16:01:46] Change number 0->8221275, apps: 0/0, packages: 0/0
+[2020-04-18 16:01:46] Requesting 1 apps, 1 packages (meta data, 1024 prev attempts)
+[2020-04-18 16:01:46] Requesting 1 apps, 1 packages (full data, 1024 prev attempts)
+[2020-04-18 16:01:47] UpdatesJob: finished OK, nAppsUpdated 1 (3 KB), nPackagesUpdated 1 (9 KB)
+[2020-04-18 16:01:47] Requesting 215 apps, 0 packages (meta data, 1024 prev attempts)
+[2020-04-18 16:01:48] Requested 56 access tokens, 53 received, 3 denied
+[2020-04-18 16:01:48] Updated SHAs with 53 new access tokens
+[2020-04-18 16:01:49] Downloaded 8 apps via HTTP, 427 KB (72 KB compressed)
+[2020-04-18 16:01:49] Requesting 207 apps, 0 packages (full data, 1024 prev attempts)
+[2020-04-18 16:01:50] UpdatesJob: finished OK, nAppsUpdated 215 (792 KB), nPackagesUpdated 0 (0 KB)
+[2020-04-18 16:01:51] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-04-18 16:01:51] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2020-04-18 16:01:52] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2020-04-18 16:02:05] Starting async write C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD/appcache/appinfo.vdf (617310 bytes)
+
+
+[2020-04-18 16:14:51] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-04-18 16:14:51] Packages changed: force all
+[2020-04-18 16:14:51] Apps changed: 
+[2020-04-18 16:14:51] Change number 8221275->8221323, apps: 0/37, packages: 0/0
+[2020-04-18 16:14:51] Requesting 4 apps, 1 packages (meta data, 1024 prev attempts)
+[2020-04-18 16:14:52] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-04-18 16:14:52] Requested 3 access tokens, 0 received, 3 denied
+[2020-04-18 16:14:52] Requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2020-04-18 16:14:53] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2020-04-18 16:14:53] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+
+
+[2020-04-18 21:33:23] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-04-18 21:33:24] Packages changed: force all
+[2020-04-18 21:33:24] Apps changed: force all
+[2020-04-18 21:33:24] Change number 8221323->8222844, apps: 0/0, packages: 0/0
+[2020-04-18 21:33:24] Requesting 216 apps, 1 packages (meta data, 1024 prev attempts)
+[2020-04-18 21:33:24] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-04-18 21:33:24] Requested 3 access tokens, 0 received, 3 denied
+[2020-04-18 21:33:25] Downloaded 1 apps via HTTP, 8 KB (2 KB compressed)
+[2020-04-18 21:33:25] Requesting 2 apps, 0 packages (full data, 1024 prev attempts)
+[2020-04-18 21:33:25] UpdatesJob: finished OK, nAppsUpdated 2 (13 KB), nPackagesUpdated 0 (0 KB)
+[2020-04-18 21:33:25] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2020-04-18 21:33:33] Starting async write C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD/appcache/appinfo.vdf (617310 bytes)
+
+
+[2020-04-18 21:34:14] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-04-18 21:34:14] Apps changed: 
+[2020-04-18 21:34:14] Change number 8222844->8222848, apps: 0/3, packages: 0/0
+[2020-04-18 21:34:14] Requesting 4 apps, 0 packages (meta data, 1024 prev attempts)
+[2020-04-18 21:34:15] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-04-18 21:34:15] Requested 3 access tokens, 0 received, 3 denied
+[2020-04-18 21:34:15] Requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2020-04-18 21:34:15] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+
+
+[2020-04-18 22:06:23] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-04-18 22:06:24] Packages changed: force all
+[2020-04-18 22:06:24] Apps changed: 
+[2020-04-18 22:06:24] Change number 8222848->8222978, apps: 0/110, packages: 0/0
+[2020-04-18 22:06:24] Requesting 4 apps, 1 packages (meta data, 1024 prev attempts)
+[2020-04-18 22:06:24] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-04-18 22:06:25] Requested 3 access tokens, 0 received, 3 denied
+[2020-04-18 22:06:25] Requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2020-04-18 22:06:25] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+
+
+[2020-04-18 22:28:37] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-04-18 22:28:37] Packages changed: force all
+[2020-04-18 22:28:37] Apps changed: 
+[2020-04-18 22:28:37] Change number 8222978->8223056, apps: 0/45, packages: 0/0
+[2020-04-18 22:28:37] Requesting 4 apps, 1 packages (meta data, 1024 prev attempts)
+[2020-04-18 22:28:38] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-04-18 22:28:38] Requested 3 access tokens, 0 received, 3 denied
+[2020-04-18 22:28:38] Requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2020-04-18 22:28:38] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+
+
+[2020-04-18 22:34:02] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-04-18 22:34:02] Packages changed: force all
+[2020-04-18 22:34:02] Apps changed: 
+[2020-04-18 22:34:02] Change number 8223056->8223077, apps: 0/16, packages: 0/0
+[2020-04-18 22:34:02] Requesting 4 apps, 1 packages (meta data, 1024 prev attempts)
+[2020-04-18 22:34:03] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-04-18 22:34:03] Requested 3 access tokens, 0 received, 3 denied
+[2020-04-18 22:34:03] Requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2020-04-18 22:34:04] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+
+
+[2020-04-18 22:37:21] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-04-18 22:37:22] Packages changed: 
+[2020-04-18 22:37:22] Apps changed: 
+[2020-04-18 22:37:22] Change number 8223077->8223088, apps: 0/11, packages: 0/2
+[2020-04-18 22:37:22] Requesting 4 apps, 0 packages (meta data, 1024 prev attempts)
+[2020-04-18 22:37:22] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-04-18 22:37:23] Requested 3 access tokens, 0 received, 3 denied
+[2020-04-18 22:37:23] Requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2020-04-18 22:37:23] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+
+
+[2020-04-19 12:15:25] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-04-19 12:15:26] Packages changed: force all
+[2020-04-19 12:15:26] Apps changed: force all
+[2020-04-19 12:15:26] Change number 8223088->8225471, apps: 0/0, packages: 0/0
+[2020-04-19 12:15:26] Requesting 216 apps, 1 packages (meta data, 1024 prev attempts)
+[2020-04-19 12:15:26] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-04-19 12:15:27] Requested 3 access tokens, 0 received, 3 denied
+[2020-04-19 12:15:27] Downloaded 1 apps via HTTP, 8 KB (2 KB compressed)
+[2020-04-19 12:15:27] Requesting 2 apps, 0 packages (full data, 1024 prev attempts)
+[2020-04-19 12:15:27] UpdatesJob: finished OK, nAppsUpdated 2 (13 KB), nPackagesUpdated 0 (0 KB)
+[2020-04-19 12:15:27] Starting async write C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD/appcache/appinfo.vdf (617310 bytes)
+
+
+[2020-04-19 14:05:32] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-04-19 14:05:32] Packages changed: force all
+[2020-04-19 14:05:32] Apps changed: 443030=8225505,
+[2020-04-19 14:05:32] Change number 8225471->8225901, apps: 1/328, packages: 0/0
+[2020-04-19 14:05:32] Requesting 5 apps, 1 packages (meta data, 1024 prev attempts)
+[2020-04-19 14:05:33] Requested 3 access tokens, 0 received, 3 denied
+[2020-04-19 14:05:33] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-04-19 14:05:33] Downloaded 1 apps via HTTP, 8 KB (2 KB compressed)
+[2020-04-19 14:05:33] Requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2020-04-19 14:05:33] UpdatesJob: finished OK, nAppsUpdated 1 (8 KB), nPackagesUpdated 0 (0 KB)
+[2020-04-19 14:05:33] Starting async write C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD/appcache/appinfo.vdf (617310 bytes)
+
+
+[2020-04-19 14:07:45] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-04-19 14:07:45] Apps changed: 
+[2020-04-19 14:07:45] Change number 8225901->8225904, apps: 0/3, packages: 0/0
+[2020-04-19 14:07:46] Requesting 4 apps, 0 packages (meta data, 1024 prev attempts)
+[2020-04-19 14:07:46] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-04-19 14:07:47] Requested 3 access tokens, 0 received, 3 denied
+[2020-04-19 14:07:47] Requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2020-04-19 14:07:47] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+
+
+[2020-04-19 14:14:57] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-04-19 14:14:58] Packages changed: 
+[2020-04-19 14:14:58] Apps changed: 
+[2020-04-19 14:14:58] Change number 8225904->8225931, apps: 0/21, packages: 0/1
+[2020-04-19 14:14:58] Requesting 4 apps, 0 packages (meta data, 1024 prev attempts)
+[2020-04-19 14:14:58] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-04-19 14:14:58] Requested 3 access tokens, 0 received, 3 denied
+[2020-04-19 14:14:58] Requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2020-04-19 14:14:59] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+
+
+[2020-04-19 19:05:31] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-04-19 19:05:31] Packages changed: force all
+[2020-04-19 19:05:31] Apps changed: 261980=8226525,17550=8226395,
+[2020-04-19 19:05:31] Change number 8225931->8227082, apps: 2/745, packages: 0/0
+[2020-04-19 19:05:31] Requesting 6 apps, 1 packages (meta data, 1024 prev attempts)
+[2020-04-19 19:05:32] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-04-19 19:05:32] Requested 3 access tokens, 0 received, 3 denied
+[2020-04-19 19:05:32] Requesting 3 apps, 0 packages (full data, 1024 prev attempts)
+[2020-04-19 19:05:33] UpdatesJob: finished OK, nAppsUpdated 2 (5 KB), nPackagesUpdated 0 (0 KB)
+[2020-04-19 19:05:33] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2020-04-19 19:05:41] Starting async write C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD/appcache/appinfo.vdf (617310 bytes)
+
+
+[2020-04-19 19:08:25] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-04-19 19:08:25] Apps changed: 
+[2020-04-19 19:08:25] Change number 8227082->8227087, apps: 0/5, packages: 0/0
+[2020-04-19 19:08:25] Requesting 4 apps, 0 packages (meta data, 1024 prev attempts)
+[2020-04-19 19:08:26] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-04-19 19:08:26] Requested 3 access tokens, 0 received, 3 denied
+[2020-04-19 19:08:26] Requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2020-04-19 19:08:27] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2020-04-19 19:08:27] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+
+
+[2020-04-19 19:17:19] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-04-19 19:17:19] Apps changed: 
+[2020-04-19 19:17:19] Change number 8227087->8227105, apps: 0/15, packages: 0/0
+[2020-04-19 19:17:19] Requesting 4 apps, 0 packages (meta data, 1024 prev attempts)
+[2020-04-19 19:17:20] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-04-19 19:17:20] Requested 3 access tokens, 0 received, 3 denied
+[2020-04-19 19:17:20] Requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2020-04-19 19:17:21] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+
+
+[2020-04-19 19:18:59] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-04-19 19:19:00] Apps changed: 
+[2020-04-19 19:19:00] Change number 8227105->8227112, apps: 0/7, packages: 0/0
+[2020-04-19 19:19:00] Requesting 4 apps, 0 packages (meta data, 1024 prev attempts)
+[2020-04-19 19:19:00] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-04-19 19:19:00] Requested 3 access tokens, 0 received, 3 denied
+[2020-04-19 19:19:00] Requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2020-04-19 19:19:01] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+
+
+[2020-04-19 19:24:26] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-04-19 19:24:27] Packages changed: 
+[2020-04-19 19:24:27] Apps changed: 
+[2020-04-19 19:24:27] Change number 8227112->8227124, apps: 0/11, packages: 0/3
+[2020-04-19 19:24:27] Requesting 4 apps, 0 packages (meta data, 1024 prev attempts)
+[2020-04-19 19:24:27] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-04-19 19:24:28] Requested 3 access tokens, 0 received, 3 denied
+[2020-04-19 19:24:28] Requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2020-04-19 19:24:28] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2020-04-19 19:24:28] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+
+
+[2020-04-19 19:24:48] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-04-19 19:24:49] Change number 8227124->8227124, apps: 0/0, packages: 0/0
+[2020-04-19 19:24:49] Requesting 4 apps, 0 packages (meta data, 1024 prev attempts)
+[2020-04-19 19:24:49] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-04-19 19:24:50] Requested 3 access tokens, 0 received, 3 denied
+[2020-04-19 19:24:50] Requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2020-04-19 19:24:50] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+
+
+[2020-04-19 19:25:13] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-04-19 19:25:13] Apps changed: 
+[2020-04-19 19:25:13] Change number 8227124->8227126, apps: 0/2, packages: 0/0
+[2020-04-19 19:25:13] Requesting 4 apps, 0 packages (meta data, 1024 prev attempts)
+[2020-04-19 19:25:14] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-04-19 19:25:14] Requested 3 access tokens, 0 received, 3 denied
+[2020-04-19 19:25:14] Requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2020-04-19 19:25:14] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+
+
+[2020-04-19 22:43:55] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-04-19 22:43:55] Packages changed: force all
+[2020-04-19 22:43:55] Apps changed: 443030=8227359,
+[2020-04-19 22:43:55] Change number 8227126->8228019, apps: 1/584, packages: 0/0
+[2020-04-19 22:43:55] Requesting 5 apps, 1 packages (meta data, 1024 prev attempts)
+[2020-04-19 22:43:56] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-04-19 22:43:56] Requested 3 access tokens, 0 received, 3 denied
+[2020-04-19 22:43:56] Downloaded 1 apps via HTTP, 8 KB (2 KB compressed)
+[2020-04-19 22:43:56] Requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2020-04-19 22:43:57] UpdatesJob: finished OK, nAppsUpdated 1 (8 KB), nPackagesUpdated 0 (0 KB)
+[2020-04-19 22:43:57] Starting async write C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD/appcache/appinfo.vdf (617310 bytes)
+
+
+[2020-04-21 19:02:33] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-04-21 19:02:33] Packages changed: force all
+[2020-04-21 19:02:33] Apps changed: force all
+[2020-04-21 19:02:33] Change number 8228019->8244181, apps: 0/0, packages: 0/0
+[2020-04-21 19:02:34] Requesting 216 apps, 1 packages (meta data, 1024 prev attempts)
+[2020-04-21 19:02:34] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-04-21 19:02:34] Requested 3 access tokens, 0 received, 3 denied
+[2020-04-21 19:02:35] Downloaded 6 apps via HTTP, 371 KB (60 KB compressed)
+[2020-04-21 19:02:35] Requesting 6 apps, 0 packages (full data, 1024 prev attempts)
+[2020-04-21 19:02:35] UpdatesJob: finished OK, nAppsUpdated 11 (389 KB), nPackagesUpdated 0 (0 KB)
+[2020-04-21 19:02:35] Starting async write C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD/appcache/appinfo.vdf (617643 bytes)

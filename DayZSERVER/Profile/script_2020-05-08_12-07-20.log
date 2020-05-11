@@ -1,0 +1,48 @@
+---------------------------------------------
+Log D:\DayZSERVERS\DayZSERVER\Profile\script_2020-05-08_12-07-20.log started at 08.05. 12:07:26
+
+SCRIPT       : Registered 223 temporary action enum(s), UAN==223
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.CreateLobby'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.CancelFriend'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.GameServerLoadMatchInfo'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.CancelSearchForMatch'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.SetLobbySlot'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.LeaveLobby'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.DeleteLobby'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.JoinLobby'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.StartLobbyGame'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.GameServerReadyServer'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.LeaveTeam'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.LoadLobbyList'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.JoinTeam'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.GetUserUID'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.ReadyLobbyPlayer'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.GetService'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.GameServerFinishGame'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.InviteFriend'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.StartSearchForMatch'
+SCRIPT    (W): @"scripts/3_Game/human.c,1030": Missing script declaration for method 'HumanCommandScript.PostPhys_LockRotation'
+SCRIPT    (W): @"scripts/3_Game/human.c,284": Method not linked 'HumanAnimInterface.SetInt'
+SCRIPT    (W): @"scripts/3_Game/human.c,285": Method not linked 'HumanAnimInterface.SetBool'
+SCRIPT    (W): @"scripts/3_Game/human.c,280": Method not linked 'HumanAnimInterface.CallCommand'
+SCRIPT    (W): @"scripts/3_Game/human.c,283": Method not linked 'HumanAnimInterface.SetFloat'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\humaninventory.c,48": Method not linked 'HumanInventory.GetFirstUserReservedLocationForContainer'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\humaninventory.c,9": Missing script declaration for method 'HumanInventory.FindFirstUserReservedLocationIndexForContainer'
+SCRIPT    (W): @"scripts/3_Game/entities\inventoryitem.c,120": Unsafe down-casting, use 'Object.Cast' for safe down-casting
+SCRIPT       : CreateGame()
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT    (W): @"MunghardsItems/scripts/4_world/entities\itembase\sleepingbag.c,160": Missing ';' at the end of line
+SCRIPT    (W): @"MunghardsItems/scripts/4_world/entities\itembase\hazmatsuit.c,70": Missing ';' at the end of line
+SCRIPT    (W): @"MunghardsItems/scripts/4_world/entities\itembase\hazmatsuit.c,76": Missing ';' at the end of line
+SCRIPT    (W): @"MassTextures\scripts\4_World/rucksack.c,19": Missing ';' at the end of line
+SCRIPT    (W): @"MassTextures\scripts\4_World/nbc.c,28": Missing ';' at the end of line
+SCRIPT    (W): @"MassTextures\scripts\4_World/nbc.c,58": Missing ';' at the end of line
+SCRIPT    (W): @"MassTextures\scripts\4_World/ratnik.c,28": Missing ';' at the end of line
+SCRIPT    (W): @"Food\scripts\4_World/entities\drug.c,8": Missing ';' at the end of line
+SCRIPT    (W): @"scripts/4_World/entities\dayzplayerimplement.c,27": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"scripts/4_World/entities\itembase.c,551": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"MunghardsItems/scripts/4_world/classes\useractionscomponent\actions\continuous\actionbuildmungcabin.c,34": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"MunghardsItems/scripts/4_world/entities\itembase\kv5.c,49": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"ModularVestSystem/scripts/4_World/armorrack_actiondeployobject.c,11": No need to use 'Cast' for up-casting
+SCRIPT       : [LumberJack] 'LJ_Settings' found, loaded config
+SCRIPT       : ~DayZGame()

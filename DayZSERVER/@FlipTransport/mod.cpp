@@ -1,0 +1,10 @@
+name = "FlipTransport";
+picture = "fliptransport/graphics/modicon.edds";
+logoSmall = "fliptransport/graphics/modicon.edds";
+logo = "fliptransport/graphics/modicon.edds";
+logoOver = "fliptransport/graphics/modicon.edds";
+tooltip = "WARNING: Contains nuts!";
+overview = "Allows survivors to flip their vehicles on their own with a wrench.";
+action = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
+author = "Wardog";
+version = "1.0.057";

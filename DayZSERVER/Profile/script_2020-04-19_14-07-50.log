@@ -1,0 +1,120 @@
+---------------------------------------------
+Log C:\Users\adamk\Desktop\DayZSERVERSA\DayZSERVER\Profile\script_2020-04-19_14-07-50.log started at 19.04. 14:07:50
+
+SCRIPT       : Registered 223 temporary action enum(s), UAN==223
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.CreateLobby'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.CancelFriend'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.GameServerLoadMatchInfo'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.CancelSearchForMatch'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.SetLobbySlot'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.LeaveLobby'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.DeleteLobby'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.JoinLobby'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.StartLobbyGame'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.GameServerReadyServer'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.LeaveTeam'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.LoadLobbyList'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.JoinTeam'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.GetUserUID'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.ReadyLobbyPlayer'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.GetService'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.GameServerFinishGame'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.InviteFriend'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.StartSearchForMatch'
+SCRIPT    (W): @"scripts/3_Game/human.c,1030": Missing script declaration for method 'HumanCommandScript.PostPhys_LockRotation'
+SCRIPT    (W): @"scripts/3_Game/human.c,284": Method not linked 'HumanAnimInterface.SetInt'
+SCRIPT    (W): @"scripts/3_Game/human.c,285": Method not linked 'HumanAnimInterface.SetBool'
+SCRIPT    (W): @"scripts/3_Game/human.c,280": Method not linked 'HumanAnimInterface.CallCommand'
+SCRIPT    (W): @"scripts/3_Game/human.c,283": Method not linked 'HumanAnimInterface.SetFloat'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\humaninventory.c,48": Method not linked 'HumanInventory.GetFirstUserReservedLocationForContainer'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\humaninventory.c,9": Missing script declaration for method 'HumanInventory.FindFirstUserReservedLocationIndexForContainer'
+SCRIPT    (W): @"scripts/3_Game/entities\inventoryitem.c,120": Unsafe down-casting, use 'Object.Cast' for safe down-casting
+SCRIPT       : CreateGame()
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT    (W): @"MunghardsItems/scripts/4_world/entities\itembase\sleepingbag.c,160": Missing ';' at the end of line
+SCRIPT    (W): @"MunghardsItems/scripts/4_world/entities\itembase\hazmatsuit.c,70": Missing ';' at the end of line
+SCRIPT    (W): @"MunghardsItems/scripts/4_world/entities\itembase\hazmatsuit.c,76": Missing ';' at the end of line
+SCRIPT    (W): @"MassTextures\scripts\4_World/rucksack.c,19": Missing ';' at the end of line
+SCRIPT    (W): @"MassTextures\scripts\4_World/nbc.c,28": Missing ';' at the end of line
+SCRIPT    (W): @"MassTextures\scripts\4_World/nbc.c,58": Missing ';' at the end of line
+SCRIPT    (W): @"MassTextures\scripts\4_World/ratnik.c,28": Missing ';' at the end of line
+SCRIPT    (W): @"Food\scripts\4_World/entities\drug.c,8": Missing ';' at the end of line
+SCRIPT    (W): @"scripts/4_World/entities\dayzplayerimplement.c,27": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"scripts/4_World/entities\itembase.c,551": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"MunghardsItems/scripts/4_world/classes\useractionscomponent\actions\continuous\actionbuildmungcabin.c,34": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"MunghardsItems/scripts/4_world/entities\itembase\kv5.c,49": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"ModularVestSystem/scripts/4_World/armorrack_actiondeployobject.c,11": No need to use 'Cast' for up-casting
+SCRIPT       : [LumberJack] 'LJ_Settings' found, loaded config
+SCRIPT    (W): @"Scope/Scripts/5_Mission/lol.c,6": Missing ';' at the end of line
+SCRIPT       : GetDeerIsleBase()...
+SCRIPT       : [LI_Base] Base class created
+SCRIPT       : [LumberJack] 'LJ_Settings' found, loaded config
+SCRIPT       : Magazine mag = NULL
+SCRIPT       : Magazine mag = NULL
+SCRIPT       : Magazine mag = NULL
+SCRIPT       : Magazine mag = NULL
+SCRIPT       : Magazine mag = NULL
+SCRIPT       : Magazine mag = NULL
+SCRIPT       : Chernarus::Weather::Rain::ForceEnd:: ( 14.138 ) 0 -> 0
+SCRIPT       : childCount:33
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "greathelmet_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gasmask_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Motohelmet_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gag_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : ********* LoadStats loading version: 106
+SCRIPT       : LOAD checksum:1656545524
+SCRIPT       : Stomach checksum fail
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:948794677
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<13606af0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<13606af0> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionMineTree<13601c30> item=Hatchet:06957
+SCRIPT       : material = WoodenLog; quantity = 1
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionMineTree<13601c30> item=Hatchet:06957
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<13606af0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<13606af0> item=null
+SCRIPT       : Chernarus::Weather::Rain::ForceEnd:: ( 14.1879 ) 0 -> 0
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionBuildPart<136032b0> item=Shovel:04423
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionBuildPart<136032b0> item=Shovel:04423
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenBarrel<136049d0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenBarrel<136049d0> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:948794677
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionDropItemSimple<13600650> item=WoodenStick:04441
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionGetInTransport<244ecfd0> item=null
+SCRIPT       : OnVehicleSeatDriverEnter
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionGetInTransport<244ecfd0> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionStartEngine<13504f70> item=null
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionStartEngine<13504f70> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionGetOutTransport<136088f0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionGetOutTransport<136088f0> item=null
+SCRIPT       : OnVehicleSeatDriverLeft
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [Logout]: New player PePzZ0L1ZJUQg9Q1FfJUlXhF9cdZkFg3LM9SbwUgpMQ= with logout time 15
+SCRIPT       : [emote] SurvivorM_Boris:01 play emote id=14 IH=null
+SCRIPT       : [Logout]: Player PePzZ0L1ZJUQg9Q1FfJUlXhF9cdZkFg3LM9SbwUgpMQ= finished
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:948794677
+SCRIPT       : ~DayZGame()
+SCRIPT       : [Korolgrad] Base class destroyed

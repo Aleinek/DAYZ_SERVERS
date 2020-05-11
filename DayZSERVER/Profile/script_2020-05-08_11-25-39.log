@@ -1,0 +1,48 @@
+---------------------------------------------
+Log D:\DayZSERVERS\DayZSERVER\Profile\script_2020-05-08_11-25-39.log started at 08.05. 11:25:41
+
+SCRIPT       : Registered 220 temporary action enum(s), UAN==220
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.CreateLobby'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.CancelFriend'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.GameServerLoadMatchInfo'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.CancelSearchForMatch'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.SetLobbySlot'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.LeaveLobby'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.DeleteLobby'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.JoinLobby'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.StartLobbyGame'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.GameServerReadyServer'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.LeaveTeam'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.LoadLobbyList'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.JoinTeam'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.GetUserUID'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.ReadyLobbyPlayer'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.GetService'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.GameServerFinishGame'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.InviteFriend'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.StartSearchForMatch'
+SCRIPT    (W): @"scripts/3_Game/human.c,1030": Missing script declaration for method 'HumanCommandScript.PostPhys_LockRotation'
+SCRIPT    (W): @"scripts/3_Game/human.c,284": Method not linked 'HumanAnimInterface.SetInt'
+SCRIPT    (W): @"scripts/3_Game/human.c,285": Method not linked 'HumanAnimInterface.SetBool'
+SCRIPT    (W): @"scripts/3_Game/human.c,280": Method not linked 'HumanAnimInterface.CallCommand'
+SCRIPT    (W): @"scripts/3_Game/human.c,283": Method not linked 'HumanAnimInterface.SetFloat'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\humaninventory.c,48": Method not linked 'HumanInventory.GetFirstUserReservedLocationForContainer'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\humaninventory.c,9": Missing script declaration for method 'HumanInventory.FindFirstUserReservedLocationIndexForContainer'
+SCRIPT    (W): @"scripts/3_Game/entities\inventoryitem.c,120": Unsafe down-casting, use 'Object.Cast' for safe down-casting
+SCRIPT       : CreateGame()
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT    (W): @"scripts/4_World/entities\dayzplayerimplement.c,27": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"scripts/4_World/entities\itembase.c,551": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT       : [syncinv] warning, lambda cannot be executed, skipping!
+SCRIPT       : childCount:33
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "greathelmet_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gasmask_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Motohelmet_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gag_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : [Logout]: New player PePzZ0L1ZJUQg9Q1FfJUlXhF9cdZkFg3LM9SbwUgpMQ= with logout time 15
+SCRIPT       : [emote] SurvivorF_Eva:01 play emote id=14 IH=null
+SCRIPT       : [Logout]: Player PePzZ0L1ZJUQg9Q1FfJUlXhF9cdZkFg3LM9SbwUgpMQ= finished
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : ~DayZGame()

@@ -1,0 +1,956 @@
+---------------------------------------------
+Log C:\Users\adamk\Desktop\DayZSERVERSA\DayZSERVER\Profile\script_2020-04-19_12-15-30.log started at 19.04. 12:15:31
+
+SCRIPT       : Registered 223 temporary action enum(s), UAN==223
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.CreateLobby'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.CancelFriend'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.GameServerLoadMatchInfo'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.CancelSearchForMatch'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.SetLobbySlot'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.LeaveLobby'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.DeleteLobby'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.JoinLobby'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.StartLobbyGame'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.GameServerReadyServer'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.LeaveTeam'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.LoadLobbyList'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.JoinTeam'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.GetUserUID'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.ReadyLobbyPlayer'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.GetService'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.GameServerFinishGame'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.InviteFriend'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.StartSearchForMatch'
+SCRIPT    (W): @"scripts/3_Game/human.c,1030": Missing script declaration for method 'HumanCommandScript.PostPhys_LockRotation'
+SCRIPT    (W): @"scripts/3_Game/human.c,284": Method not linked 'HumanAnimInterface.SetInt'
+SCRIPT    (W): @"scripts/3_Game/human.c,285": Method not linked 'HumanAnimInterface.SetBool'
+SCRIPT    (W): @"scripts/3_Game/human.c,280": Method not linked 'HumanAnimInterface.CallCommand'
+SCRIPT    (W): @"scripts/3_Game/human.c,283": Method not linked 'HumanAnimInterface.SetFloat'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\humaninventory.c,48": Method not linked 'HumanInventory.GetFirstUserReservedLocationForContainer'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\humaninventory.c,9": Missing script declaration for method 'HumanInventory.FindFirstUserReservedLocationIndexForContainer'
+SCRIPT    (W): @"scripts/3_Game/entities\inventoryitem.c,120": Unsafe down-casting, use 'Object.Cast' for safe down-casting
+SCRIPT       : CreateGame()
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT    (W): @"MunghardsItems/scripts/4_world/entities\itembase\sleepingbag.c,160": Missing ';' at the end of line
+SCRIPT    (W): @"MunghardsItems/scripts/4_world/entities\itembase\hazmatsuit.c,70": Missing ';' at the end of line
+SCRIPT    (W): @"MunghardsItems/scripts/4_world/entities\itembase\hazmatsuit.c,76": Missing ';' at the end of line
+SCRIPT    (W): @"MassTextures\scripts\4_World/rucksack.c,19": Missing ';' at the end of line
+SCRIPT    (W): @"MassTextures\scripts\4_World/nbc.c,28": Missing ';' at the end of line
+SCRIPT    (W): @"MassTextures\scripts\4_World/nbc.c,58": Missing ';' at the end of line
+SCRIPT    (W): @"MassTextures\scripts\4_World/ratnik.c,28": Missing ';' at the end of line
+SCRIPT    (W): @"Food\scripts\4_World/entities\drug.c,8": Missing ';' at the end of line
+SCRIPT    (W): @"scripts/4_World/entities\dayzplayerimplement.c,27": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"scripts/4_World/entities\itembase.c,551": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"MunghardsItems/scripts/4_world/classes\useractionscomponent\actions\continuous\actionbuildmungcabin.c,34": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"MunghardsItems/scripts/4_world/entities\itembase\kv5.c,49": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"ModularVestSystem/scripts/4_World/armorrack_actiondeployobject.c,11": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"Scope/Scripts/5_Mission/lol.c,6": Missing ';' at the end of line
+SCRIPT       : GetDeerIsleBase()...
+SCRIPT       : [LI_Base] Base class created
+SCRIPT       : Magazine mag = NULL
+SCRIPT       : Magazine mag = NULL
+SCRIPT       : Magazine mag = NULL
+SCRIPT       : Magazine mag = NULL
+SCRIPT       : Magazine mag = NULL
+SCRIPT       : Magazine mag = NULL
+SCRIPT       : Magazine mag = NULL
+SCRIPT       : Chernarus::Weather::Rain::ForceEnd:: ( 12.2926 ) 0 -> 0
+SCRIPT       : childCount:33
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "greathelmet_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gasmask_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Motohelmet_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gag_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : ********* LoadStats loading version: 106
+SCRIPT       : LOAD checksum:1656545524
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Chernarus::Weather::Fog:: ( 12.2967 ) 0.0371773
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionTakeItem<9522e200> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionTakeItem<9522e200> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionDropItemSimple<95228b20> item=AK_Suppressor:014358
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1656545524
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionDropItemSimple<95228b20> item=zenitco_pt3_buttstock:05364
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionDropItemSimple<95228b20> item=MVS_WarriorHelmet_Tan:09690
+SCRIPT       : Chernarus::Weather::Rain::ForceEnd:: ( 12.3425 ) 0 -> 0
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1656545524
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionTakeItem<9522e200> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionTakeItem<9522e200> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionLoadMagazine<9522c900> item=Mag_STANAG_30Rnd:07426
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionLoadMagazine<9522c900> item=Mag_STANAG_30Rnd:07426
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionLoadMagazine<9522c900> item=Mag_STANAG_30Rnd:07426
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionLoadMagazine<9522c900> item=Mag_STANAG_30Rnd:07426
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 2
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 started FirearmActionAttachMagazineQuick<2e478ca0> item=M4A1:011703
+SCRIPT       : [action] SurvivorM_Boris:01 end FirearmActionAttachMagazineQuick<2e478ca0> item=M4A1:011703
+SCRIPT       : Chernarus::Weather::Rain::ForceEnd:: ( 12.3925 ) 0 -> 0
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1656545524
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionDropItemSimple<95228b20> item=MassMolleBeltSnow:05066
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionTakeItem<9522e200> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionTakeItem<9522e200> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionTakeItem<9522e200> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionTakeItem<9522e200> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionTakeItem<9522e200> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionTakeItem<9522e200> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionTakeItem<9522e200> item=null
+SCRIPT    (E): 
+[desync] HandleInputData man=SurvivorM_Boris:01 CANNOT move cmd=SYNC_MOVE src={ type=GROUND item=Mag_STANAG_30Rnd:07307 pos=(3103.36, 23.1307, 4093.94) dir=(-0.44033, 0.55584, 0.553811, 0.436393) } dst={ type=CARGO item=Mag_STANAG_30Rnd:07307 parent=MVS_Taco_Pouch_OD:08510 idx=0 row=0 col=0 f=false }
+Class:      'DayZPlayerInventory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/systems\inventory\dayzplayerinventory.c:486
+scripts/4_World/systems\inventory\dayzplayerinventory.c:391
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionTakeItem<9522e200> item=null
+SCRIPT    (E): 
+[desync] HandleInputData man=SurvivorM_Boris:01 CANNOT move cmd=SYNC_MOVE src={ type=CARGO item=Mag_STANAG_30Rnd:07307 parent=MVS_Taco_Pouch_OD:08510 idx=0 row=1 col=3 f=false } dst={ type=CARGO item=Mag_STANAG_30Rnd:07307 parent=MVS_Taco_Pouch_OD:08510 idx=0 row=1 col=0 f=false }
+Class:      'DayZPlayerInventory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/systems\inventory\dayzplayerinventory.c:486
+scripts/4_World/systems\inventory\dayzplayerinventory.c:391
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1656545524
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionLoadMagazine<9522c900> item=Mag_STANAG_30Rnd:06249
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionLoadMagazine<9522c900> item=Mag_STANAG_30Rnd:06249
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionEmptyMagazine<9522c2c0> item=Mag_CMAG_20Rnd:07643
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionEmptyMagazine<9522c2c0> item=Mag_CMAG_20Rnd:07643
+SCRIPT       : Chernarus::Weather::Rain::ForceEnd:: ( 12.4424 ) 0 -> 0
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionTakeItem<9522e200> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionTakeItemToHands<9522e340> item=null
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 2
+SCRIPT    (E): 
+[desync] HandleInputData man=SurvivorM_Boris:01 CANNOT do cmd=HAND_EVENT e={ HandEv id=TAKE pl=SurvivorM_Boris:01 src={ type=ATTACHMENT item=M4A1:011703 parent=SurvivorM_Boris:01 slot=-761289206 } }
+Class:      'DayZPlayerInventory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/systems\inventory\dayzplayerinventory.c:565
+scripts/4_World/systems\inventory\dayzplayerinventory.c:391
+SCRIPT       : [action] SurvivorM_Boris:01 end FirearmActionAttachMagazine<2e478220> item=M4A1:011703
+SCRIPT       : [action] SurvivorM_Boris:01 end FirearmActionAttachMagazine<2e478220> item=M4A1:011703
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionEmptyMagazine<9522c2c0> item=Mag_CMAG_10Rnd:06192
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionEmptyMagazine<9522c2c0> item=Mag_CMAG_10Rnd:06192
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionEmptyMagazine<9522c2c0> item=Mag_CMAG_10Rnd:06192
+SCRIPT       : [Logout]: New player PePzZ0L1ZJUQg9Q1FfJUlXhF9cdZkFg3LM9SbwUgpMQ= with logout time 15
+SCRIPT       : [emote] SurvivorM_Boris:01 play emote id=14 IH=Mag_STANAG_30Rnd:06249
+SCRIPT       : [Logout]: Player PePzZ0L1ZJUQg9Q1FfJUlXhF9cdZkFg3LM9SbwUgpMQ= finished
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1656545524
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : ********* LoadStats loading version: 106
+SCRIPT       : LOAD checksum:1656545524
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 2
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 started FirearmActionAttachMagazineQuick<2e478ca0> item=M4A1:05864
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1656545524
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponReplacingMagAndChamberNext<a1217e00> closes stable state=RBL_CLO_BU1_MA1<172e4870> id=3
+SCRIPT       : [action] SurvivorM_Boris:01 end FirearmActionAttachMagazineQuick<2e478ca0> item=M4A1:05864
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionEmptyMagazine<9522c2c0> item=Mag_CMAG_20Rnd:06571
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionEmptyMagazine<9522c2c0> item=Mag_CMAG_20Rnd:06571
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionEmptyMagazine<9522c2c0> item=Mag_CMAG_10Rnd:06756
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionEmptyMagazine<9522c2c0> item=Mag_CMAG_10Rnd:06756
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionLoadMagazine<9522c900> item=Mag_STANAG_30Rnd:09594
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionLoadMagazine<9522c900> item=Mag_STANAG_30Rnd:09594
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 2
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionWorldCraft<95228940> item=CombatKnife:05386
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionWorldCraft<95228940> item=CombatKnife:05386
+SCRIPT       : Chernarus::Weather::Overcast:: ( 12.4904 )  overcast: 0.466469
+SCRIPT       : Chernarus::Weather::Overcast::Rain:: ( 12.4904 ) 0
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionTakeItem<9522e200> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionTakeItem<9522e200> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Chernarus::Weather::Rain::ForceEnd:: ( 12.4923 ) 0 -> 0
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionDropItemSimple<95228b20> item=MVS_Sheath_Snow:07734
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionTakeItemToHands<9522e340> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionTakeItemToHands<9522e340> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1656545524
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionCloseDoors<9522de40> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionCloseDoors<9522de40> item=null
+SCRIPT       : [Logout]: New player PePzZ0L1ZJUQg9Q1FfJUlXhF9cdZkFg3LM9SbwUgpMQ= with logout time 15
+SCRIPT       : [emote] SurvivorM_Boris:01 play emote id=14 IH=null
+SCRIPT       : [Logout]: Player PePzZ0L1ZJUQg9Q1FfJUlXhF9cdZkFg3LM9SbwUgpMQ= finished
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1656545524
+SCRIPT       : Chernarus::Weather::Rain::ForceEnd:: ( 12.5422 ) 0 -> 0
+SCRIPT       : Chernarus::Weather::Rain::ForceEnd:: ( 12.5922 ) 0 -> 0
+SCRIPT       : Chernarus::Weather::Rain::ForceEnd:: ( 12.6421 ) 0 -> 0
+SCRIPT       : Chernarus::Weather::Rain::ForceEnd:: ( 12.692 ) 0 -> 0
+SCRIPT       : Chernarus::Weather::Rain::ForceEnd:: ( 12.7419 ) 0 -> 0
+SCRIPT       : Chernarus::Weather::Rain::ForceEnd:: ( 12.7918 ) 0 -> 0
+SCRIPT       : Chernarus::Weather::Fog:: ( 12.8039 ) 0.0903104
+SCRIPT       : Chernarus::Weather::Rain::ForceEnd:: ( 12.8417 ) 0 -> 0
+SCRIPT       : ********* LoadStats loading version: 106
+SCRIPT       : LOAD checksum:1656545524
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Chernarus::Weather::Rain::ForceEnd:: ( 12.8917 ) 0 -> 0
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionTakeItem<9522e200> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionTakeItem<9522e200> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionDropItemSimple<95228b20> item=WeaponCleaningKit:06669
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 2
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Chernarus::Weather::Overcast:: ( 12.8954 )  overcast: 0.443916
+SCRIPT       : Chernarus::Weather::Overcast::Rain:: ( 12.8954 ) 0
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionTakeItem<9522e200> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionTakeItem<9522e200> item=null
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 2
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionLoadMagazine<9522c900> item=Mag_STANAGCoupled_30Rnd:05685
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionLoadMagazine<9522c900> item=Mag_STANAGCoupled_30Rnd:05685
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionLoadMagazine<9522c900> item=Mag_STANAGCoupled_30Rnd:05685
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionLoadMagazine<9522c900> item=Mag_STANAGCoupled_30Rnd:05685
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionLoadMagazine<9522c900> item=Mag_STANAGCoupled_30Rnd:05685
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionLoadMagazine<9522c900> item=Mag_STANAGCoupled_30Rnd:05685
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 2
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 started FirearmActionAttachMagazineQuick<2e478ca0> item=M4A1:023366
+SCRIPT       : [action] SurvivorM_Boris:01 end FirearmActionAttachMagazineQuick<2e478ca0> item=M4A1:023366
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1656545524
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionDropItemSimple<95228b20> item=UniversalLight:06504
+SCRIPT       : Chernarus::Weather::Rain::ForceEnd:: ( 12.9416 ) 0 -> 0
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1656545524
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenCarDoors<9522f6a0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenCarDoors<9522f6a0> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionCloseCarDoors<9522f240> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionCloseCarDoors<9522f240> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionDropItemSimple<95228b20> item=MVS_Admin_Pouch_OD:07366
+SCRIPT       : Chernarus::Weather::Rain::ForceEnd:: ( 12.9915 ) 0 -> 0
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1656545524
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionEatSmall<9522b460> item=sandwich_mung:018328
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionEatSmall<9522b460> item=sandwich_mung:018328
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionEmptyMagazine<9522c2c0> item=Mag_STANAG_30Rnd:07327
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionEmptyMagazine<9522c2c0> item=Mag_STANAG_30Rnd:07327
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1656545524
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : Chernarus::Weather::Rain:: ( 13.0415 ) 0
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionTakeItemToHands<9522e340> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionTakeItemToHands<9522e340> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionDropItemSimple<95228b20> item=Rag:012465
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionDropItemSimple<95228b20> item=MassRuckBagGreen:05031
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionTakeItemToHands<9522e340> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionTakeItemToHands<9522e340> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Chernarus::Weather::Rain:: ( 13.0637 ) 0.270306
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionTakeItemToHands<9522e340> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionTakeItemToHands<9522e340> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1656545524
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionEmptyMagazine<9522c2c0> item=Mag_STANAG_30Rnd:06497
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionEmptyMagazine<9522c2c0> item=Mag_STANAG_30Rnd:06497
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 2
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 3
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1656545524
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionEmptyMagazine<9522c2c0> item=Mag_STANAG_30Rnd:024814
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionEmptyMagazine<9522c2c0> item=Mag_STANAG_30Rnd:024814
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionDropItemSimple<95228b20> item=Mag_STANAG_30Rnd:06497
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionEmptyMagazine<9522c2c0> item=Mag_STANAG_30Rnd:014725
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionEmptyMagazine<9522c2c0> item=Mag_STANAG_30Rnd:014725
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionTakeItemToHands<9522e340> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionTakeItemToHands<9522e340> item=null
+SCRIPT       : Chernarus::Weather::Rain:: ( 13.1255 ) 0
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionTakeItem<9522e200> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionTakeItem<9522e200> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1656545524
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenCarDoors<9522f6a0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenCarDoors<9522f6a0> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionDropItemSimple<95228b20> item=CanisterGasoline:04378
+SCRIPT       : Chernarus::Weather::Rain:: ( 13.155 ) 0.146278
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionDropItemSimple<95228b20> item=CableReel:04400
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionDropItemSimple<95228b20> item=CamoNet:04402
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionLoadMagazine<9522c900> item=Mag_STANAGCoupled_30Rnd:06764
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : Chernarus::Weather::Rain:: ( 13.1828 ) 0.164144
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionLoadMagazine<9522c900> item=Mag_STANAGCoupled_30Rnd:06764
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1656545524
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionLoadMagazine<9522c900> item=Mag_STANAGCoupled_30Rnd:06764
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionLoadMagazine<9522c900> item=Mag_STANAGCoupled_30Rnd:06764
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionLoadMagazine<9522c900> item=Mag_STANAGCoupled_30Rnd:06764
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionLoadMagazine<9522c900> item=Mag_STANAGCoupled_30Rnd:06764
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionDrinkCan<9522d620> item=SodaCan_Pipsi:08621
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionDrinkCan<9522d620> item=SodaCan_Pipsi:08621
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 2
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 2
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionWorldCraft<95228940> item=MassSSww2Camopants:04808
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionWorldCraft<95228940> item=MassSSww2Camopants:04808
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE id:0
+SCRIPT       : SAVE id_bit_offset:4
+SCRIPT       : SAVE write_result:4259840
+SCRIPT       : SAVE CHECKSUM:1656545524
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Chernarus::Weather::Rain:: ( 13.2465 ) 0
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1656545524
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionTakeItem<9522e200> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionTakeItem<9522e200> item=null
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 2
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionDropItemSimple<95228b20> item=MassHolo2:024908
+SCRIPT       : Chernarus::Weather::Rain:: ( 13.2665 ) 0.289367
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionTakeItem<9522e200> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionTakeItem<9522e200> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionTakeItem<9522e200> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionTakeItem<9522e200> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionTakeItem<9522e200> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionTakeItem<9522e200> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionCloseDoors<9522de40> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionCloseDoors<9522de40> item=null
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 2
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1656545524
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionTakeItemToHands<9522e340> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionTakeItemToHands<9522e340> item=null
+SCRIPT       : Chernarus::Weather::Rain:: ( 13.2988 ) 0.296735
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionPlaceObject<9522a600> item=PowerGenerator:06339
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionPlaceObject<9522a600> item=PowerGenerator:06339
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionDeployObject<95229160> item=Spotlight:07615
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionDeployObject<95229160> item=Spotlight:07615
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Chernarus::Weather::Fog:: ( 13.31 ) 0.0141041
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionDeployObject<95229160> item=Spotlight:05253
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionDeployObject<95229160> item=Spotlight:05253
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Chernarus::Weather::Overcast:: ( 13.3136 )  overcast: 0.679751
+SCRIPT       : Chernarus::Weather::Overcast::Rain:: ( 13.3136 ) 0.160072
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionDeployObject<95229160> item=Spotlight:05253
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionDeployObject<95229160> item=Spotlight:05253
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionTakeItemToHands<9522e340> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionTakeItemToHands<9522e340> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionDeployObject<95229160> item=Spotlight:05253
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionDeployObject<95229160> item=Spotlight:05253
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionTakeItemToHands<9522e340> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionTakeItemToHands<9522e340> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Chernarus::Weather::Rain:: ( 13.3257 ) 0.0492569
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionTakeItem<9522e200> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionTakeItem<9522e200> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionTakeItemToHands<9522e340> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionTakeItemToHands<9522e340> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionPlaceObject<9522a600> item=Barrel_Green:06270
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionPlaceObject<9522a600> item=Barrel_Green:06270
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenBarrel<9522fd80> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenBarrel<9522fd80> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1656545524
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionFillGeneratorTank<9522d4e0> item=CanisterGasoline:018658
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionFillGeneratorTank<9522d4e0> item=CanisterGasoline:018658
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionCloseBarrel<9522f060> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionCloseBarrel<9522f060> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenBarrel<9522fd80> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenBarrel<9522fd80> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionTurnOnWhileInHands<2028b610> item=oillamp_mung:017550
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionTurnOnWhileInHands<2028b610> item=oillamp_mung:017550
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionTurnOffWhileInHands<2028b730> item=oillamp_mung:017550
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionTurnOffWhileInHands<2028b730> item=oillamp_mung:017550
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionTakeItemToHands<9522e340> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionTakeItemToHands<9522e340> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionDrinkCan<9522d620> item=SodaCan_Cola:09712
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionDrinkCan<9522d620> item=SodaCan_Cola:09712
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE id:1
+SCRIPT       : SAVE id_bit_offset:4
+SCRIPT       : SAVE write_result:10158096
+SCRIPT       : SAVE CHECKSUM:1656545524
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Chernarus::Weather::Rain:: ( 13.385 ) 0
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionCloseCarDoors<9522f240> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionCloseCarDoors<9522f240> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionGetInTransport<2e479820> item=null
+SCRIPT       : OnVehicleSeatDriverEnter
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionGetInTransport<2e479820> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionStartEngine<94dae500> item=null
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionStartEngine<94dae500> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1656545524
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionGetOutTransport<9522f100> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionGetOutTransport<9522f100> item=null
+SCRIPT       : OnVehicleSeatDriverLeft
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionCloseDoors<9522de40> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionCloseDoors<9522de40> item=null
+SCRIPT       : Chernarus::Weather::Rain:: ( 13.4142 ) 0.137602
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenCarDoors<9522f6a0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenCarDoors<9522f6a0> item=null
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionPlaceObject<9522a600> item=CableReel:04400
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionPlaceObject<9522a600> item=CableReel:04400
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionTakeItem<9522e200> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionTakeItem<9522e200> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionPlugIn<2028a6e0> item=CableReel:04400
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionPlugIn<2028a6e0> item=CableReel:04400
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionPlugTargetIntoThis<9522a060> item=CableReel:04400
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionPlugTargetIntoThis<9522a060> item=CableReel:04400
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionTakeItem<9522e200> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionTakeItem<9522e200> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionPlugIn<2028a6e0> item=Spotlight:07615
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionPlugIn<2028a6e0> item=Spotlight:07615
+SCRIPT       : Chernarus::Weather::Rain:: ( 13.4314 ) 0.195788
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionDeployObject<95229160> item=Spotlight:07615
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionDeployObject<95229160> item=Spotlight:07615
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionAttach<2028bd60> item=SparkPlug:04361
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionAttach<2028bd60> item=SparkPlug:04361
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionTurnOnPowerGenerator<9522d9e0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionTurnOnPowerGenerator<9522d9e0> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1656545524
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionTurnOffPowerGenerator<952300a0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionTurnOffPowerGenerator<952300a0> item=null
+SCRIPT       : Chernarus::Weather::Rain::ForceEnd:: ( 13.4512 ) 0.288933 -> 0
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionPullOutPlug<9522db20> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionPullOutPlug<9522db20> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionPullOutPlug<9522db20> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionPullOutPlug<9522db20> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionTakeItemToHands<9522e340> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionTakeItemToHands<9522e340> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionPlaceObject<9522a600> item=PowerGenerator:06339
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionPlaceObject<9522a600> item=PowerGenerator:06339
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionFillGeneratorTank<9522d4e0> item=CanisterGasoline:018658
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionFillGeneratorTank<9522d4e0> item=CanisterGasoline:018658
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1656545524
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Chernarus::Weather::Rain::ForceEnd:: ( 13.5011 ) 0 -> 0
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionCloseDoors<9522de40> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionCloseDoors<9522de40> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionCloseDoors<9522de40> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionCloseDoors<9522de40> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : CreateCopyOfItemInInventory - created  at loc={ type=CARGO item=null parent=MassRuckBagGreen:05031 idx=0 row=0 col=2 f=false }
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionWorldCraft<95228940> item=WoodenStick:04381
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionWorldCraft<95228940> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionTakeItemToHands<9522e340> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionTakeItemToHands<9522e340> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionDeployObject<95229160> item=FenceKit:020912
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1656545524
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionDeployObject<95229160> item=FenceKit:020912
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionOpenDoors<9522f880> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionOpenDoors<9522f880> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionFoldBaseBuildingObject<9522cea0> item=null
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionFoldBaseBuildingObject<9522cea0> item=null
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionDeployObject<95229160> item=FenceKit:022383
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionDeployObject<95229160> item=FenceKit:022383
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Boris:01 started ActionCloseDoors<9522de40> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Boris:01 end ActionCloseDoors<9522de40> item=null
+SCRIPT       : [Logout]: New player PePzZ0L1ZJUQg9Q1FfJUlXhF9cdZkFg3LM9SbwUgpMQ= with logout time 15
+SCRIPT       : [emote] SurvivorM_Boris:01 play emote id=14 IH=null
+SCRIPT       : [Logout]: Player PePzZ0L1ZJUQg9Q1FfJUlXhF9cdZkFg3LM9SbwUgpMQ= cancelled
+SCRIPT       : [Logout]: New player PePzZ0L1ZJUQg9Q1FfJUlXhF9cdZkFg3LM9SbwUgpMQ= with logout time 15
+SCRIPT       : [emote] SurvivorM_Boris:01 play emote id=14 IH=null
+SCRIPT       : [Logout]: Player PePzZ0L1ZJUQg9Q1FfJUlXhF9cdZkFg3LM9SbwUgpMQ= finished
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1656545524
+SCRIPT       : Chernarus::Weather::Rain::ForceEnd:: ( 13.551 ) 0 -> 0
+SCRIPT       : Chernarus::Weather::Rain::ForceEnd:: ( 13.601 ) 0 -> 0
+SCRIPT       : ~DayZGame()
+SCRIPT       : [Korolgrad] Base class destroyed

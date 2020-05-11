@@ -1,0 +1,274 @@
+
+
+[2020-04-18 13:40:25] Loaded 0 apps from install folder "C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\steamapps\appmanifest_*.acf".
+
+
+[2020-04-18 16:01:43] Loaded 0 apps from install folder "C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\steamapps\appmanifest_*.acf".
+[2020-04-18 16:01:51] Loaded 0 apps from install folder "c:\users\adamk\desktop\dayzserversa\dayzserver\steamapps\appmanifest_*.acf".
+[2020-04-18 16:01:52] AppID 223350 state changed : Update Required,
+[2020-04-18 16:01:52] AppID 228980 state changed : Update Required,Shared Only,
+[2020-04-18 16:01:52] AppID 228980 state changed : Update Required,
+[2020-04-18 16:01:52] Dependency added: parent 228980, child 223350, depot 228985
+[2020-04-18 16:01:52] Dependency added: parent 228980, child 223350, depot 228986
+[2020-04-18 16:01:52] AppID 223350 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=1, appDisableSecondsRemaining=0
+[2020-04-18 16:01:52] AppID 223350 state changed : Update Required,Update Queued,
+[2020-04-18 16:01:52] AppID 223350 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=1, appDisableSecondsRemaining=0
+[2020-04-18 16:01:52] AppID 223350 state changed : Update Required,Update Queued,Update Running,
+[2020-04-18 16:01:52] AppID 223350 update changed : Running,
+[2020-04-18 16:01:52] AppID 223350 update changed : Running,Reconfiguring,
+[2020-04-18 16:01:52] Download system icon for AppID 223350 to C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\steam\games/f8c16699ed5ce1cc8aa9b15ed3fdd66553fce2bf.ico
+[2020-04-18 16:01:53] Got 13 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (38/3)
+[2020-04-18 16:01:53] Created download interface of type 'SteamCache' (7) to host cache4-waw1.steamcontent.com (cache4-waw1.steamcontent.com)
+[2020-04-18 16:01:53] Created download interface of type 'SteamCache' (7) to host cache2-waw1.steamcontent.com (cache2-waw1.steamcontent.com)
+[2020-04-18 16:01:53] Created download interface of type 'SteamCache' (7) to host cache1-sto2.steamcontent.com (cache1-sto2.steamcontent.com)
+[2020-04-18 16:01:53] Created ipv4-only http client
+[2020-04-18 16:01:53] HTTP (SteamCache,176) - cache2-waw1.steamcontent.com (155.133.230.19:80 / 155.133.230.19:80, host: cache2-waw1.steamcontent.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-04-18 16:01:53] HTTP (SteamCache,199) - cache1-sto2.steamcontent.com (155.133.252.12:80 / 155.133.252.12:80, host: cache1-sto2.steamcontent.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-04-18 16:01:53] HTTP (SteamCache,88) - cache4-waw1.steamcontent.com (155.133.230.20:80 / 155.133.230.20:80, host: cache4-waw1.steamcontent.com): cache4-waw1.steamcontent.com/depot/223351/manifest/9179989260184011540/5 - received 200 (OK) HTTP response
+[2020-04-18 16:01:54] HTTP (SteamCache,176) - cache2-waw1.steamcontent.com (155.133.230.19:80 / 155.133.230.19:80, host: cache2-waw1.steamcontent.com): cache2-waw1.steamcontent.com/depot/223353/manifest/6662107606213307032/5 - received 200 (OK) HTTP response
+[2020-04-18 16:01:54] AppID 223350 update changed : Running,
+[2020-04-18 16:01:54] AppID 223350 update changed : Running,Validating,
+[2020-04-18 16:01:54] Validating files (new target,full) ...
+[2020-04-18 16:01:54] File validation finished: 331 files (2743721409 bytes) total, 331 files (2743721409 bytes) mismatched (46 msec).
+[2020-04-18 16:01:54] AppID 223350 update changed : Running,
+[2020-04-18 16:01:54] AppID 223350 update changed : Running,Preallocating,
+[2020-04-18 16:01:54] AppID 223350 update changed : Running,
+[2020-04-18 16:01:54] AppID 223350 update started : download 0/1028715040, store 0/0, reuse 0/0, delta 0/0, stage 0/2743721409 
+[2020-04-18 16:01:54] AppID 223350 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2020-04-18 16:01:54] AppID 223350 update changed : Running,Downloading,
+[2020-04-18 16:01:54] AppID 223350 update changed : Running,Downloading,Staging,
+[2020-04-18 16:01:54] Downloading 2805 chunks from depot 223351
+[2020-04-18 16:02:05] Increasing target number of download connections to 4 (rate was 0.000, now 29.231)
+[2020-04-18 16:02:05] Created download interface of type 'CDN' (2) to host f3b7q2p3.ssl.hwcdn.net (f3b7q2p3.ssl.hwcdn.net)
+[2020-04-18 16:02:06] HTTP (CDN,4) - f3b7q2p3.ssl.hwcdn.net (205.185.216.10:443 / 205.185.216.10:443, host: f3b7q2p3.ssl.hwcdn.net): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-04-18 16:02:06] HTTP (CDN,4) - f3b7q2p3.ssl.hwcdn.net (205.185.216.10:443 / 205.185.216.10:443, host: f3b7q2p3.ssl.hwcdn.net): AuthenticateDepotID (223351) - Success!
+[2020-04-18 16:02:18] Increasing target number of download connections to 5 (rate was 29.231, now 42.312)
+[2020-04-18 16:02:18] Created download interface of type 'CDN' (2) to host steampipe.akamaized.net (steampipe.akamaized.net)
+[2020-04-18 16:02:19] HTTP (CDN,11) - steampipe.akamaized.net (2.18.212.147:443 / 2.18.212.147:443, host: steampipe.akamaized.net): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-04-18 16:02:19] HTTP (CDN,11) - steampipe.akamaized.net (2.18.212.147:443 / 2.18.212.147:443, host: steampipe.akamaized.net): AuthenticateDepotID (223351) - Success!
+[2020-04-18 16:02:42] Increasing target number of download connections to 6 (rate was 42.312, now 51.361)
+[2020-04-18 16:03:07] Current download rate: 55.788 Mbps
+[2020-04-18 16:04:08] Current download rate: 48.012 Mbps
+[2020-04-18 16:04:37] Downloading 35 chunks from depot 223353
+[2020-04-18 16:04:37] HTTP (CDN,11) - steampipe.akamaized.net (2.18.212.250:443 / 2.18.212.250:443, host: steampipe.akamaized.net): AuthenticateDepotID (223353) - Success!
+[2020-04-18 16:04:37] HTTP (CDN,4) - f3b7q2p3.ssl.hwcdn.net (205.185.216.10:443 / 205.185.216.10:443, host: f3b7q2p3.ssl.hwcdn.net): AuthenticateDepotID (223353) - Success!
+[2020-04-18 16:04:41] AppID 223350 update changed : Running,
+[2020-04-18 16:04:41] AppID 223350 update changed : Running,Committing,
+[2020-04-18 16:04:41] AppID 223350 file commit : 331 updated, 0 moved, 0 deleted
+[2020-04-18 16:04:41] AppID 223350 state changed : Fully Installed,Update Queued,Update Running,
+[2020-04-18 16:04:41] AppID 223350 finished update, mounted depots (BuildID 4765672) : 223351 (9179989260184011540),223353 (6662107606213307032),
+[2020-04-18 16:04:41] AppID 223350 update changed : Running,
+[2020-04-18 16:04:41] AppID 223350 update changed : None
+[2020-04-18 16:04:41] AppID 223350 state changed : Fully Installed,Update Queued,
+[2020-04-18 16:04:41] AppID 223350 state changed : Fully Installed,
+[2020-04-18 16:04:41] AppID 223350 scheduler finished : removed from schedule
+[2020-04-18 16:04:41] HTTP (CDN,11) - steampipe.akamaized.net (2.18.212.250:443 / 2.18.212.250:443, host: steampipe.akamaized.net): Closing connection
+[2020-04-18 16:04:41] HTTP (CDN,4) - f3b7q2p3.ssl.hwcdn.net (205.185.216.10:443 / 205.185.216.10:443, host: f3b7q2p3.ssl.hwcdn.net): Closing connection
+[2020-04-18 16:04:41] HTTP (SteamCache,199) - cache1-sto2.steamcontent.com (155.133.252.12:80 / 155.133.252.12:80, host: cache1-sto2.steamcontent.com): Closing connection
+[2020-04-18 16:04:41] HTTP (SteamCache,176) - cache2-waw1.steamcontent.com (155.133.230.19:80 / 155.133.230.19:80, host: cache2-waw1.steamcontent.com): Closing connection
+[2020-04-18 16:04:41] HTTP (SteamCache,88) - cache4-waw1.steamcontent.com (155.133.230.20:80 / 155.133.230.20:80, host: cache4-waw1.steamcontent.com): Closing connection
+
+
+[2020-04-18 16:14:49] Loaded 0 apps from install folder "C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\steamapps\appmanifest_*.acf".
+[2020-04-18 16:14:52] Loaded 2 apps from install folder "c:\users\adamk\desktop\dayzserversa\dayzserver\steamapps\appmanifest_*.acf".
+[2020-04-18 16:14:53] Start validating appID 223350
+[2020-04-18 16:14:53] AppID 223350 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=782, appDisableSecondsRemaining=0
+[2020-04-18 16:14:53] AppID 223350 state changed : Fully Installed,Update Queued,
+[2020-04-18 16:14:53] AppID 223350 state changed : Fully Installed,Update Queued,Update Running,
+[2020-04-18 16:14:53] AppID 223350 update changed : Running,
+[2020-04-18 16:14:53] AppID 223350 update changed : Running,Reconfiguring,
+[2020-04-18 16:14:53] AppID 223350 update changed : Running,
+[2020-04-18 16:14:53] AppID 223350 update changed : Running,Validating,
+[2020-04-18 16:14:53] Validating files (all active,full) ...
+[2020-04-18 16:15:01] File validation finished: 331 files (2743721409 bytes) total, 0 files (0 bytes) mismatched (7765 msec).
+[2020-04-18 16:15:01] AppID 223350 update changed : Running,
+[2020-04-18 16:15:01] AppID 223350 update changed : None
+[2020-04-18 16:15:01] AppID 223350 state changed : Fully Installed,Update Queued,
+[2020-04-18 16:15:01] AppID 223350 state changed : Fully Installed,
+[2020-04-18 16:15:01] AppID 223350 scheduler finished : removed from schedule
+
+
+[2020-04-18 21:33:20] Loaded 0 apps from install folder "C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\steamapps\appmanifest_*.acf".
+[2020-04-18 21:33:24] Loaded 2 apps from install folder "c:\users\adamk\desktop\dayzserversa\dayzserver\steamapps\appmanifest_*.acf".
+[2020-04-18 21:33:25] Start validating appID 223350
+[2020-04-18 21:33:25] AppID 223350 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=19894, appDisableSecondsRemaining=0
+[2020-04-18 21:33:25] AppID 223350 state changed : Fully Installed,Update Queued,
+[2020-04-18 21:33:25] AppID 223350 state changed : Fully Installed,Update Queued,Update Running,
+[2020-04-18 21:33:25] AppID 223350 update changed : Running,
+[2020-04-18 21:33:25] AppID 223350 update changed : Running,Reconfiguring,
+[2020-04-18 21:33:25] AppID 223350 update changed : Running,
+[2020-04-18 21:33:25] AppID 223350 update changed : Running,Validating,
+[2020-04-18 21:33:25] Validating files (all active,full) ...
+[2020-04-18 21:33:33] File validation finished: 331 files (2743721409 bytes) total, 0 files (0 bytes) mismatched (7653 msec).
+[2020-04-18 21:33:33] AppID 223350 update changed : Running,
+[2020-04-18 21:33:33] AppID 223350 update changed : None
+[2020-04-18 21:33:33] AppID 223350 state changed : Fully Installed,Update Queued,
+[2020-04-18 21:33:33] AppID 223350 state changed : Fully Installed,
+[2020-04-18 21:33:33] AppID 223350 scheduler finished : removed from schedule
+
+
+[2020-04-18 21:34:12] Loaded 0 apps from install folder "C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\steamapps\appmanifest_*.acf".
+[2020-04-18 21:34:15] Loaded 2 apps from install folder "c:\users\adamk\desktop\dayzserversa\dayzserver\steamapps\appmanifest_*.acf".
+
+
+[2020-04-18 22:06:22] Loaded 0 apps from install folder "C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\steamapps\appmanifest_*.acf".
+[2020-04-18 22:06:24] Loaded 2 apps from install folder "c:\users\adamk\desktop\dayzserversa\dayzserver\steamapps\appmanifest_*.acf".
+
+
+[2020-04-18 22:28:35] Loaded 0 apps from install folder "C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\steamapps\appmanifest_*.acf".
+[2020-04-18 22:28:38] Loaded 2 apps from install folder "c:\users\adamk\desktop\dayzserversa\dayzserver\steamapps\appmanifest_*.acf".
+
+
+[2020-04-18 22:33:59] Loaded 0 apps from install folder "C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\steamapps\appmanifest_*.acf".
+[2020-04-18 22:34:03] Loaded 2 apps from install folder "c:\users\adamk\desktop\dayzserversa\dayzserver\steamapps\appmanifest_*.acf".
+
+
+[2020-04-18 22:37:20] Loaded 0 apps from install folder "C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\steamapps\appmanifest_*.acf".
+[2020-04-18 22:37:22] Loaded 2 apps from install folder "c:\users\adamk\desktop\dayzserversa\dayzserver\steamapps\appmanifest_*.acf".
+
+
+[2020-04-19 12:15:22] Loaded 0 apps from install folder "C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\steamapps\appmanifest_*.acf".
+[2020-04-19 12:15:26] Loaded 2 apps from install folder "c:\users\adamk\desktop\dayzserversa\dayzserver\steamapps\appmanifest_*.acf".
+
+
+[2020-04-19 14:05:30] Loaded 0 apps from install folder "C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\steamapps\appmanifest_*.acf".
+[2020-04-19 14:05:33] Loaded 2 apps from install folder "c:\users\adamk\desktop\dayzserversa\dayzserver\steamapps\appmanifest_*.acf".
+
+
+[2020-04-19 14:07:42] Loaded 0 apps from install folder "C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\steamapps\appmanifest_*.acf".
+[2020-04-19 14:07:46] Loaded 2 apps from install folder "c:\users\adamk\desktop\dayzserversa\dayzserver\steamapps\appmanifest_*.acf".
+
+
+[2020-04-19 14:14:55] Loaded 0 apps from install folder "C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\steamapps\appmanifest_*.acf".
+[2020-04-19 14:14:58] Loaded 2 apps from install folder "c:\users\adamk\desktop\dayzserversa\dayzserver\steamapps\appmanifest_*.acf".
+
+
+[2020-04-19 19:05:28] Loaded 0 apps from install folder "C:\Users\adamk\Desktop\DayZSERVERSA\SteamCMD\steamapps\appmanifest_*.acf".
+[2020-04-19 19:05:32] Loaded 2 apps from install folder "c:\users\adamk\desktop\dayzserversa\dayzserver\steamapps\appmanifest_*.acf".
+[2020-04-19 19:05:33] Start validating appID 223350
+[2020-04-19 19:05:33] AppID 223350 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=97422, appDisableSecondsRemaining=0
+[2020-04-19 19:05:33] AppID 223350 state changed : Fully Installed,Update Queued,
+[2020-04-19 19:05:33] AppID 223350 state changed : Fully Installed,Update Queued,Update Running,
+[2020-04-19 19:05:33] AppID 223350 update changed : Running,
+[2020-04-19 19:05:33] AppID 223350 update changed : Running,Reconfiguring,
+[2020-04-19 19:05:33] AppID 223350 update changed : Running,
+[2020-04-19 19:05:33] AppID 223350 update changed : Running,Validating,
+[2020-04-19 19:05:33] Validating files (all active,full) ...
+[2020-04-19 19:05:41] File validation finished: 331 files (2743721409 bytes) total, 0 files (0 bytes) mismatched (7957 msec).
+[2020-04-19 19:05:41] AppID 223350 update changed : Running,
+[2020-04-19 19:05:41] AppID 223350 update changed : None
+[2020-04-19 19:05:41] AppID 223350 state changed : Fully Installed,Update Queued,
+[2020-04-19 19:05:41] AppID 223350 state changed : Fully Installed,
+[2020-04-19 19:05:41] AppID 223350 scheduler finished : removed from schedule
+
+
+[2020-04-19 19:08:23] Loaded 0 apps from install folder "C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\steamapps\appmanifest_*.acf".
+[2020-04-19 19:08:26] Loaded 0 apps from install folder "c:\users\adamk\desktop\dayzservers\testowy\steamapps\appmanifest_*.acf".
+[2020-04-19 19:08:27] AppID 223350 state changed : Update Required,
+[2020-04-19 19:08:27] AppID 228980 state changed : Update Required,Shared Only,
+[2020-04-19 19:08:27] AppID 228980 state changed : Update Required,
+[2020-04-19 19:08:27] Dependency added: parent 228980, child 223350, depot 228985
+[2020-04-19 19:08:27] Dependency added: parent 228980, child 223350, depot 228986
+[2020-04-19 19:08:27] AppID 223350 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=3, appDisableSecondsRemaining=0
+[2020-04-19 19:08:27] AppID 223350 state changed : Update Required,Update Queued,
+[2020-04-19 19:08:27] AppID 223350 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=3, appDisableSecondsRemaining=0
+[2020-04-19 19:08:27] AppID 223350 state changed : Update Required,Update Queued,Update Running,
+[2020-04-19 19:08:27] AppID 223350 update changed : Running,
+[2020-04-19 19:08:27] AppID 223350 update changed : Running,Reconfiguring,
+[2020-04-19 19:08:27] AppID 223350 update changed : Running,
+[2020-04-19 19:08:27] AppID 223350 update changed : Running,Validating,
+[2020-04-19 19:08:27] Validating files (new target,full) ...
+[2020-04-19 19:08:27] File validation finished: 331 files (2743721409 bytes) total, 331 files (2743721409 bytes) mismatched (41 msec).
+[2020-04-19 19:08:27] AppID 223350 update changed : Running,
+[2020-04-19 19:08:27] AppID 223350 update changed : Running,Preallocating,
+[2020-04-19 19:08:27] AppID 223350 update changed : Running,
+[2020-04-19 19:08:27] AppID 223350 update started : download 0/1028715040, store 0/0, reuse 0/0, delta 0/0, stage 0/2743721409 
+[2020-04-19 19:08:27] AppID 223350 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2020-04-19 19:08:27] AppID 223350 update changed : Running,Downloading,
+[2020-04-19 19:08:27] AppID 223350 update changed : Running,Downloading,Staging,
+[2020-04-19 19:08:28] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (38/3)
+[2020-04-19 19:08:28] Created download interface of type 'SteamCache' (7) to host cache1-waw1.steamcontent.com (cache1-waw1.steamcontent.com)
+[2020-04-19 19:08:28] Created download interface of type 'SteamCache' (7) to host cache4-waw1.steamcontent.com (cache4-waw1.steamcontent.com)
+[2020-04-19 19:08:28] Created download interface of type 'SteamCache' (7) to host cache2-fra1.steamcontent.com (cache2-fra1.steamcontent.com)
+[2020-04-19 19:08:28] Downloading 2805 chunks from depot 223351
+[2020-04-19 19:08:28] Created ipv4-only http client
+[2020-04-19 19:08:40] Increasing target number of download connections to 4 (rate was 0.000, now 12.353)
+[2020-04-19 19:08:40] Created download interface of type 'SteamCache' (7) to host cache7-sto1.steamcontent.com (cache7-sto1.steamcontent.com)
+[2020-04-19 19:08:40] HTTP (SteamCache,62) - cache7-sto1.steamcontent.com (162.254.198.83:80 / 162.254.198.83:80, host: cache7-sto1.steamcontent.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-04-19 19:08:52] Increasing target number of download connections to 5 (rate was 12.353, now 17.851)
+[2020-04-19 19:08:52] Created download interface of type 'SteamCache' (7) to host cache7-fra1.steamcontent.com (cache7-fra1.steamcontent.com)
+[2020-04-19 19:08:53] HTTP (SteamCache,247) - cache7-fra1.steamcontent.com (155.133.250.17:80 / 155.133.250.17:80, host: cache7-fra1.steamcontent.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-04-19 19:09:41] Current download rate: 15.600 Mbps
+[2020-04-19 19:09:59] Increasing target number of download connections to 6 (rate was 17.851, now 21.437)
+[2020-04-19 19:09:59] Created download interface of type 'SteamCache' (7) to host cache57-fra1.steamcontent.com (cache57-fra1.steamcontent.com)
+[2020-04-19 19:10:16] Increasing target number of download connections to 7 (rate was 21.437, now 26.717)
+[2020-04-19 19:10:16] Created download interface of type 'SteamCache' (7) to host cache55-fra1.steamcontent.com (cache55-fra1.steamcontent.com)
+[2020-04-19 19:10:16] HTTP (SteamCache,160) - cache55-fra1.steamcontent.com (155.133.250.100:80 / 155.133.250.100:80, host: cache55-fra1.steamcontent.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-04-19 19:10:42] Current download rate: 17.315 Mbps
+[2020-04-19 19:11:43] Current download rate: 15.436 Mbps
+[2020-04-19 19:12:45] Current download rate: 15.208 Mbps
+[2020-04-19 19:13:46] Current download rate: 15.738 Mbps
+[2020-04-19 19:14:47] Current download rate: 17.800 Mbps
+[2020-04-19 19:15:48] Current download rate: 21.499 Mbps
+[2020-04-19 19:16:05] Got 32 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (38/3)
+[2020-04-19 19:16:05] Downloading 35 chunks from depot 223353
+[2020-04-19 19:16:17] AppID 223350 update changed : Running,
+[2020-04-19 19:16:17] AppID 223350 update changed : Running,Committing,
+[2020-04-19 19:16:17] AppID 223350 file commit : 331 updated, 0 moved, 0 deleted
+[2020-04-19 19:16:18] AppID 223350 state changed : Fully Installed,Update Queued,Update Running,
+[2020-04-19 19:16:18] AppID 223350 finished update, mounted depots (BuildID 4765672) : 223351 (9179989260184011540),223353 (6662107606213307032),
+[2020-04-19 19:16:18] AppID 223350 update changed : Running,
+[2020-04-19 19:16:18] AppID 223350 update changed : None
+[2020-04-19 19:16:18] AppID 223350 state changed : Fully Installed,Update Queued,
+[2020-04-19 19:16:18] AppID 223350 state changed : Fully Installed,
+[2020-04-19 19:16:18] AppID 223350 scheduler finished : removed from schedule
+[2020-04-19 19:16:18] HTTP (SteamCache,160) - cache55-fra1.steamcontent.com (155.133.250.100:80 / 155.133.250.100:80, host: cache55-fra1.steamcontent.com): Closing connection
+[2020-04-19 19:16:18] HTTP (SteamCache,162) - cache57-fra1.steamcontent.com (155.133.250.101:80 / 155.133.250.101:80, host: cache57-fra1.steamcontent.com): Closing connection
+[2020-04-19 19:16:18] HTTP (SteamCache,247) - cache7-fra1.steamcontent.com (155.133.250.17:80 / 155.133.250.17:80, host: cache7-fra1.steamcontent.com): Closing connection
+[2020-04-19 19:16:18] HTTP (SteamCache,62) - cache7-sto1.steamcontent.com (162.254.198.83:80 / 162.254.198.83:80, host: cache7-sto1.steamcontent.com): Closing connection
+[2020-04-19 19:16:18] HTTP (SteamCache,242) - cache2-fra1.steamcontent.com (155.133.250.3:80 / 155.133.250.3:80, host: cache2-fra1.steamcontent.com): Closing connection
+[2020-04-19 19:16:18] HTTP (SteamCache,88) - cache4-waw1.steamcontent.com (155.133.230.20:80 / 155.133.230.20:80, host: cache4-waw1.steamcontent.com): Closing connection
+[2020-04-19 19:16:18] HTTP (SteamCache,175) - cache1-waw1.steamcontent.com (155.133.230.3:80 / 155.133.230.3:80, host: cache1-waw1.steamcontent.com): Closing connection
+
+
+[2020-04-19 19:17:17] Loaded 0 apps from install folder "C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\steamapps\appmanifest_*.acf".
+[2020-04-19 19:17:20] Loaded 2 apps from install folder "c:\users\adamk\desktop\dayzservers\testowy\steamapps\appmanifest_*.acf".
+
+
+[2020-04-19 19:18:57] Loaded 0 apps from install folder "C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\steamapps\appmanifest_*.acf".
+[2020-04-19 19:19:00] Loaded 2 apps from install folder "c:\users\adamk\desktop\dayzservers\testowy\steamapps\appmanifest_*.acf".
+
+
+[2020-04-19 19:24:24] Loaded 0 apps from install folder "C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\steamapps\appmanifest_*.acf".
+[2020-04-19 19:24:27] Loaded 2 apps from install folder "c:\users\adamk\desktop\dayzservers\testowy\steamapps\appmanifest_*.acf".
+[2020-04-19 19:24:28] Start validating appID 223350
+[2020-04-19 19:24:28] AppID 223350 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=964, appDisableSecondsRemaining=0
+[2020-04-19 19:24:28] AppID 223350 state changed : Fully Installed,Update Queued,
+[2020-04-19 19:24:28] AppID 223350 state changed : Fully Installed,Update Queued,Update Running,
+[2020-04-19 19:24:28] AppID 223350 update changed : Running,
+[2020-04-19 19:24:28] AppID 223350 update changed : Running,Reconfiguring,
+[2020-04-19 19:24:28] AppID 223350 update changed : Running,
+[2020-04-19 19:24:28] AppID 223350 update changed : Running,Validating,
+[2020-04-19 19:24:28] Validating files (all active,full) ...
+[2020-04-19 19:24:36] File validation finished: 331 files (2743721409 bytes) total, 0 files (0 bytes) mismatched (7862 msec).
+[2020-04-19 19:24:36] AppID 223350 update changed : Running,
+[2020-04-19 19:24:36] AppID 223350 update changed : None
+[2020-04-19 19:24:36] AppID 223350 state changed : Fully Installed,Update Queued,
+[2020-04-19 19:24:36] AppID 223350 state changed : Fully Installed,
+[2020-04-19 19:24:36] AppID 223350 scheduler finished : removed from schedule
+
+
+[2020-04-19 19:24:47] Loaded 0 apps from install folder "C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\steamapps\appmanifest_*.acf".
+[2020-04-19 19:24:49] Loaded 2 apps from install folder "c:\users\adamk\desktop\dayzservers\testowy\steamapps\appmanifest_*.acf".
+
+
+[2020-04-19 19:25:11] Loaded 0 apps from install folder "C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\steamapps\appmanifest_*.acf".
+[2020-04-19 19:25:14] Loaded 2 apps from install folder "c:\users\adamk\desktop\dayzservers\testowy\steamapps\appmanifest_*.acf".
+
+
+[2020-04-19 22:43:53] Loaded 0 apps from install folder "C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\steamapps\appmanifest_*.acf".
+[2020-04-19 22:43:56] Loaded 2 apps from install folder "c:\users\adamk\desktop\dayzservers\dayzserver\steamapps\appmanifest_*.acf".
+
+
+[2020-04-21 19:02:32] Loaded 0 apps from install folder "C:\Users\adamk\Desktop\DayZSERVERS\SteamCMD\steamapps\appmanifest_*.acf".
+[2020-04-21 19:02:34] Loaded 2 apps from install folder "c:\users\adamk\desktop\dayzservers\dayzserver\steamapps\appmanifest_*.acf".
